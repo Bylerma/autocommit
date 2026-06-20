@@ -1,0 +1,7 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [2026-06-19] - Initial Setup
+- 🚀 Created auto-commit repository configuration
+- 📝 Set up GitHub Actions workflow pipelines

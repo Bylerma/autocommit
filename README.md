@@ -1,4 +1,4 @@
-# Bylerma
+# autocommit
 
 <!-- VISITOR_START -->
 ### Visitor Counter: 0
@@ -8,6 +8,7 @@ This repository is automated using the [GitHub Auto-Commit Tool](https://github.
 
 ## Features Enabled:
 - **Visitor Counter**: Increments a counter inside this README daily.
+- **Random Commit**: Appends developer logs to `CHANGELOG.md`.
 - **Daily Quote**: Adds developer motivational quotes to `QUOTES.md`.
 - **Activity Stats**: Visualizes streak statistics and records daily actions inside `ACTIVITY.md`.
 
@@ -16,4 +17,4 @@ This repository is automated using the [GitHub Auto-Commit Tool](https://github.
 2. Make sure the files are placed in:
    - `.github/workflows/auto-commit.yml`
    - `.github/scripts/auto-commit.js`
-3. Trigger manually using the **Actions** tab on GitHub or wait for the scheduled cron run `0 9,21 * * *`.
+3. Trigger manually using the **Actions** tab on GitHub or wait for the scheduled cron run `0 9 * * *`.

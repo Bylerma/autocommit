@@ -17,3 +17,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-10)
 > "A Penny Saved Is A Penny Earned."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-07-10)
+> "The Most Beautiful Thing We Can Experience Is The Mysterious. It Is The Source Of All True Art And Science."
+> — *Albert Einstein*

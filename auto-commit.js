@@ -202,7 +202,7 @@ function updateActivityStats(commitHash = 'dev-commit') {
     }
   }
   
-  const newRow = `| ${today} | `${commitHash}` | Auto Streak Maintenance | Active 🟢 |`;
+  const newRow = `| ${today} | \`${commitHash}\` | Auto Streak Maintenance | Active 🟢 |`;
   
   const newContent = `# Git Activity Log
 

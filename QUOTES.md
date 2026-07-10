@@ -25,3 +25,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-10)
 > "Never, Never And Never Again Shall It Be That This Beautiful Land Will Again Experience The Oppression Of One By Another."
 > — *Nelson Mandela*
+
+### Quote of the Day (2026-07-10)
+> "Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing."
+> — *Theodore Roosevelt*

@@ -21,3 +21,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-10)
 > "The Most Beautiful Thing We Can Experience Is The Mysterious. It Is The Source Of All True Art And Science."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-07-10)
+> "Never, Never And Never Again Shall It Be That This Beautiful Land Will Again Experience The Oppression Of One By Another."
+> — *Nelson Mandela*

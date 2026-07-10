@@ -16,5 +16,5 @@ This repository is automated using the [GitHub Auto-Commit Tool](https://github.
 1. Enable Actions read & write permissions in this repository: **Settings** → **Actions** → **General** → **Workflow permissions** → Check **"Read and write permissions"** and **Save**.
 2. Make sure the files are placed in:
    - `.github/workflows/auto-commit.yml`
-   - `.github/scripts/auto-commit.js`
+   - `auto-commit.js`
 3. Trigger manually using the **Actions** tab on GitHub or wait for the scheduled cron run `0 9 * * *`.

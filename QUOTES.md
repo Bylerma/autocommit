@@ -45,3 +45,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-10)
 > "This life is not real. I conquered the world and it did not bring me satisfaction."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-10)
+> "What regresses, never progresses."
+> — *Umar ibn Al-Khattāb (R.A)*

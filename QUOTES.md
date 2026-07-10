@@ -29,3 +29,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-10)
 > "Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing."
 > — *Theodore Roosevelt*
+
+### Quote of the Day (2026-07-10)
+> "Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love."
+> — *Rumi*

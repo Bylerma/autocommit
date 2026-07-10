@@ -28,7 +28,7 @@ jobs:
       - name: Run Auto-Commit Script
         env:
           COMMIT_INTENSITY: ${{ vars.COMMIT_INTENSITY || '6' }}
-        run: node .github/scripts/auto-commit.js
+        run: node auto-commit.js
 
       - name: Push changes
         run: |

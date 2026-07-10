@@ -49,3 +49,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-10)
 > "What regresses, never progresses."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-07-10)
+> "A Successful Man Is One Who Can Lay A Firm Foundation With The Bricks Others Have Thrown At Him."
+> — *David Brinkley*

@@ -65,3 +65,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-11)
 > "Knowledge is the life of the mind."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-07-11)
+> "Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground."
+> — *Rumi*

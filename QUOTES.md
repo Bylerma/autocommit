@@ -61,3 +61,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-11)
 > "The Bay of Bengal is hit frequently by cyclones. The months of November and May, in particular, are dangerous in this regard."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-07-11)
+> "Knowledge is the life of the mind."
+> — *Abu Bakr (R.A)*

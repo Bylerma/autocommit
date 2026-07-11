@@ -73,3 +73,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-11)
 > "My definition of evil is unfriendliness."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-11)
+> "Let yourself be silently drawn by the stronger pull of what you really love. In the depths there is a spring with all the water your heart is thirsty for."
+> — *Rumi*

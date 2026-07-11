@@ -57,3 +57,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-11)
 > "We should remember that there are nations which meet more than 30 to 60% of their power requirements through the nuclear power system."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-07-11)
+> "The Bay of Bengal is hit frequently by cyclones. The months of November and May, in particular, are dangerous in this regard."
+> — *Abdul Kalam*

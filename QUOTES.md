@@ -53,3 +53,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-10)
 > "A Successful Man Is One Who Can Lay A Firm Foundation With The Bricks Others Have Thrown At Him."
 > — *David Brinkley*
+
+### Quote of the Day (2026-07-11)
+> "We should remember that there are nations which meet more than 30 to 60% of their power requirements through the nuclear power system."
+> — *Abdul Kalam*

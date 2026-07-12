@@ -85,3 +85,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-12)
 > "Not Life, But Good Life, Is To Be Chiefly Valued."
 > — *Socrates*
+
+### Quote of the Day (2026-07-12)
+> "Run away from greatness and greatness will follow you."
+> — *Abu Bakr (R.A)*

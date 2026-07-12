@@ -93,3 +93,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-12)
 > "Wealth tends to create enemies, whereas knowledge tends to warm hearts."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-07-12)
+> "If You Hear A Voice Within You Say 'You Cannot Paint ' Then By All Means Paint, And That Voice Will Be Silenced."
+> — *Vincent Van Gogh*

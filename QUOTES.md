@@ -97,3 +97,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-12)
 > "If You Hear A Voice Within You Say 'You Cannot Paint ' Then By All Means Paint, And That Voice Will Be Silenced."
 > — *Vincent Van Gogh*
+
+### Quote of the Day (2026-07-12)
+> "The highest person is he who is of most use to humankind."
+> — *Ali ibn Abi Talib (R.A)*

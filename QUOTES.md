@@ -81,3 +81,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-12)
 > "He who wins through fraud is not a winner."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-07-12)
+> "Not Life, But Good Life, Is To Be Chiefly Valued."
+> — *Socrates*

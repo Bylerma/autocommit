@@ -125,3 +125,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-13)
 > "Money cannot help lifting its head."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-07-13)
+> "Friendship Is A Single Soul Dwelling In Two Bodies."
+> — *Aristotle*

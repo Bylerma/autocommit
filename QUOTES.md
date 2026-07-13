@@ -113,3 +113,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-13)
 > "There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes."
 > — *Rumi*
+
+### Quote of the Day (2026-07-13)
+> "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."
+> — *Muhammad Ali*

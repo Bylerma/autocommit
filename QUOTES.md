@@ -105,3 +105,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-13)
 > "We Shall Require A Substantially New Manner Of Thinking If Mankind Is To Survive."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-07-13)
+> "A Person Who Never Made A Mistake Never Tried Anything New."
+> — *Albert Einstein*

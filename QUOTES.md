@@ -129,3 +129,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-13)
 > "Friendship Is A Single Soul Dwelling In Two Bodies."
 > — *Aristotle*
+
+### Quote of the Day (2026-07-13)
+> "For Where God Built A Church, There The Devil Would Also Build A Chapel."
+> — *Martin Luther*

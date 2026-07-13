@@ -133,3 +133,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-13)
 > "For Where God Built A Church, There The Devil Would Also Build A Chapel."
 > — *Martin Luther*
+
+### Quote of the Day (2026-07-13)
+> "Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See."
+> — *Martin Luther*

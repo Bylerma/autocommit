@@ -117,3 +117,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-13)
 > "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-13)
+> "Heart is a sea, language is the shore. Whatever is in a sea hits the shore."
+> — *Rumi*

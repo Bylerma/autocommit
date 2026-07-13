@@ -121,3 +121,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-13)
 > "Heart is a sea, language is the shore. Whatever is in a sea hits the shore."
 > — *Rumi*
+
+### Quote of the Day (2026-07-13)
+> "Money cannot help lifting its head."
+> — *Umar ibn Al-Khattāb (R.A)*

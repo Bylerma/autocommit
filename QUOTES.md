@@ -149,3 +149,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-14)
 > "Keep silent, because the world of silence is a vast fullness."
 > — *Rumi*
+
+### Quote of the Day (2026-07-14)
+> "Live life as if its rigged in your favor."
+> — *Rumi*

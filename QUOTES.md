@@ -169,3 +169,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-14)
 > "Parkinson's is my toughest fight. No, it doesn't hurt. It's hard to explain. I'm being tested to see if I'll keep praying, to see if I'll keep my faith. All great people are tested by God."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-14)
+> "If You Are Out To Describe The Truth, Leave Elegance To The Tailor."
+> — *Albert Einstein*

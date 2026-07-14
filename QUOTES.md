@@ -141,3 +141,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-14)
 > "If you want to shine like the sun, first burn like the sun."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-07-14)
+> "The Greatest Discovery Of All Time Is That A Person Can Change His Future By Merely Changing His Attitude."
+> — *Oprah Winfrey*

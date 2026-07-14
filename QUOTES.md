@@ -137,3 +137,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-13)
 > "Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See."
 > — *Martin Luther*
+
+### Quote of the Day (2026-07-14)
+> "If you want to shine like the sun, first burn like the sun."
+> — *Abdul Kalam*

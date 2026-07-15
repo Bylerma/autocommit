@@ -185,3 +185,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-15)
 > "I Am The Greatest, I Said That Even Before I Knew I Was."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-15)
+> "All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child."
+> — *Marie Curie*

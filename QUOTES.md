@@ -181,3 +181,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-15)
 > "Don't you know yet? It is your Light that lights the worlds."
 > — *Rumi*
+
+### Quote of the Day (2026-07-15)
+> "I Am The Greatest, I Said That Even Before I Knew I Was."
+> — *Muhammad Ali*

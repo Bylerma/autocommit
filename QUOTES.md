@@ -217,3 +217,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-16)
 > "He Who Laughs Best Today, Will Also Laughs Last."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-07-16)
+> "O World, try to deceive someone else. Are you trying to tempt me or attract me? No way! I divorce you irrevocably. Your time is short and you are insignificant. Alas! The provision is little, the journey is long and the way is lonely."
+> — *Ali ibn Abi Talib (R.A)*

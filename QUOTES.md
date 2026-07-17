@@ -237,3 +237,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-17)
 > "Think Of All The Beauty Still Left Around You And Be Happy."
 > — *Anne Frank*
+
+### Quote of the Day (2026-07-17)
+> "When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry."
+> — *William Shakespeare*

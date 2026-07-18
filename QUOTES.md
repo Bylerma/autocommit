@@ -245,3 +245,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-17)
 > "Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose."
 > — *Bill Gates*
+
+### Quote of the Day (2026-07-18)
+> "A Lot Of People Quit Looking For Work As Soon As They Find A Job."
+> — *Zig Ziglar*

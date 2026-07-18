@@ -261,3 +261,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-18)
 > "Give Me Six Hours To Chop Down A Tree And I Will Spend The First Four Sharpening The Axe."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-07-18)
+> "He who guards his secrets retains control in his own hands."
+> — *Ali ibn Abi Talib (R.A)*

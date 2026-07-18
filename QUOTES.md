@@ -257,3 +257,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-18)
 > "Economy forced me to become a vegetarian, but I finally starting liking it."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-07-18)
+> "Give Me Six Hours To Chop Down A Tree And I Will Spend The First Four Sharpening The Axe."
+> — *Abraham Lincoln*

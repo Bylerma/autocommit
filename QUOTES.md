@@ -269,3 +269,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-18)
 > "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-07-19)
+> "Fear Is The Main Source Of Superstition, And One Of The Main Sources Of Cruelty. To Conquer Fear Is The Beginning Of Wisdom."
+> — *Bertrand Russell*

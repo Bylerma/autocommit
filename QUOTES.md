@@ -289,3 +289,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-19)
 > "No pork, soda pop, cigarettes, alcohol - ever!"
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-19)
+> "Our Scientific Power Has Outrun Our Spiritual Power. We Have Guided Missiles And Misguided Men."
+> — *Martin Luther King, Jr.*

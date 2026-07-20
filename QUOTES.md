@@ -293,3 +293,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-19)
 > "Our Scientific Power Has Outrun Our Spiritual Power. We Have Guided Missiles And Misguided Men."
 > — *Martin Luther King, Jr.*
+
+### Quote of the Day (2026-07-20)
+> "I Cannot Discover That Anyone Knows Enough To Say Definitely What Is And What Is Not Possible."
+> — *Henry Ford*

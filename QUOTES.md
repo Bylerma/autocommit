@@ -301,3 +301,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-20)
 > "Everyone Seems To Have A Clear Idea Of How Other People Should Lead Their Lives, But None About His Or Her Own."
 > — *Paulo Coelho*
+
+### Quote of the Day (2026-07-20)
+> "Do not take someone's silence as his pride, perhaps he is busy fighting with his self."
+> — *Ali ibn Abi Talib (R.A)*

@@ -305,3 +305,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-20)
 > "Do not take someone's silence as his pride, perhaps he is busy fighting with his self."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-07-20)
+> "Do not overeat; that invites disease."
+> — *Umar ibn Al-Khattāb (R.A)*

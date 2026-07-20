@@ -297,3 +297,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-20)
 > "I Cannot Discover That Anyone Knows Enough To Say Definitely What Is And What Is Not Possible."
 > — *Henry Ford*
+
+### Quote of the Day (2026-07-20)
+> "Everyone Seems To Have A Clear Idea Of How Other People Should Lead Their Lives, But None About His Or Her Own."
+> — *Paulo Coelho*

@@ -313,3 +313,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-20)
 > "It'S Fine To Celebrate Success But It Is More Important To Heed The Lessons Of Failure."
 > — *Bill Gates*
+
+### Quote of the Day (2026-07-20)
+> "Risk Comes From Not Knowing What You'Re Doing."
+> — *Warren Buffett*

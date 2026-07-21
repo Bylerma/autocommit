@@ -337,3 +337,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-21)
 > "Be Happy In The Moment, That'S Enough. Each Moment Is All We Need, Not More."
 > — *Mother Teresa*
+
+### Quote of the Day (2026-07-21)
+> "If There Is Something To Pardon In Everything, There Is Also Something To Condemn."
+> — *Friedrich Nietzsche*

@@ -317,3 +317,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-20)
 > "Risk Comes From Not Knowing What You'Re Doing."
 > — *Warren Buffett*
+
+### Quote of the Day (2026-07-21)
+> "The true believer is rewarded in every thing, even in affliction."
+> — *Abu Bakr (R.A)*

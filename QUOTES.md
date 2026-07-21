@@ -329,3 +329,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-21)
 > "I'M Not Even Kind Of A Lesbian."
 > — *Oprah Winfrey*
+
+### Quote of the Day (2026-07-21)
+> "It is better to listen to a wise enemy than to seek counsel from a foolish friend."
+> — *Ali ibn Abi Talib (R.A)*

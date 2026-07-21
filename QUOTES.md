@@ -321,3 +321,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-21)
 > "The true believer is rewarded in every thing, even in affliction."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-07-21)
+> "I belong to no religion. My religion is love. Every heart is my temple."
+> — *Rumi*

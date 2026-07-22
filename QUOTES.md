@@ -341,3 +341,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-21)
 > "If There Is Something To Pardon In Everything, There Is Also Something To Condemn."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-07-22)
+> "The Hardest Thing To Understand In The World Is The Income Tax."
+> — *Albert Einstein*

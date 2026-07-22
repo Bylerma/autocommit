@@ -361,3 +361,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-22)
 > "Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."
 > — *Aristotle*
+
+### Quote of the Day (2026-07-22)
+> "No boxer in the history of boxing has had Parkinson's. There's no injury in my brain that suggests that the illness came from boxing."
+> — *Muhammad Ali*

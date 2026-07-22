@@ -345,3 +345,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-22)
 > "The Hardest Thing To Understand In The World Is The Income Tax."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-07-22)
+> "A man's worth depends upon the nobility of his aspirations."
+> — *Ali ibn Abi Talib (R.A)*

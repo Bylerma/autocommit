@@ -377,3 +377,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-23)
 > "Pray, And Let God Worry."
 > — *Martin Luther*
+
+### Quote of the Day (2026-07-23)
+> "A friend cannot be considered a friend until he is tested in three occasions: in timeof need, behind your back, and after your death."
+> — *Ali ibn Abi Talib (R.A)*

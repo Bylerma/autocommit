@@ -369,3 +369,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-23)
 > "Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-07-23)
+> "There is a voice that doesn't use words. Listen."
+> — *Rumi*

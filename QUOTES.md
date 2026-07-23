@@ -365,3 +365,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-22)
 > "No boxer in the history of boxing has had Parkinson's. There's no injury in my brain that suggests that the illness came from boxing."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-23)
+> "Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen."
+> — *Albert Einstein*

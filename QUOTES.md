@@ -373,3 +373,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-23)
 > "There is a voice that doesn't use words. Listen."
 > — *Rumi*
+
+### Quote of the Day (2026-07-23)
+> "Pray, And Let God Worry."
+> — *Martin Luther*

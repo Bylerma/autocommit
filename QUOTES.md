@@ -381,3 +381,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-23)
 > "A friend cannot be considered a friend until he is tested in three occasions: in timeof need, behind your back, and after your death."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-07-23)
+> "Patience is of two kinds: patience over what pains you, and patience against what you covet."
+> — *Ali ibn Abi Talib (R.A)*

@@ -385,3 +385,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-23)
 > "Patience is of two kinds: patience over what pains you, and patience against what you covet."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-07-23)
+> "We Make Up Horrors To Help Us Cope With The Real Ones."
+> — *Stephen King*

@@ -401,3 +401,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-24)
 > "Hesitation Increases In Relation To Risk In Equal Proportion To Age."
 > — *Ernest Hemingway*
+
+### Quote of the Day (2026-07-24)
+> "No amount of guilt can change the past and no amount of worrying can change the future."
+> — *Umar ibn Al-Khattāb (R.A)*

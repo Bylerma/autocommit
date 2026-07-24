@@ -397,3 +397,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-24)
 > "The person I like most is the one who points out my defects."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-07-24)
+> "Hesitation Increases In Relation To Risk In Equal Proportion To Age."
+> — *Ernest Hemingway*

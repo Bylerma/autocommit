@@ -393,3 +393,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-24)
 > "Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-07-24)
+> "The person I like most is the one who points out my defects."
+> — *Umar ibn Al-Khattāb (R.A)*

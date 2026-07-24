@@ -389,3 +389,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-23)
 > "We Make Up Horrors To Help Us Cope With The Real Ones."
 > — *Stephen King*
+
+### Quote of the Day (2026-07-24)
+> "Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen."
+> — *Albert Einstein*

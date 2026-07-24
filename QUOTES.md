@@ -405,3 +405,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-24)
 > "No amount of guilt can change the past and no amount of worrying can change the future."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-07-24)
+> "If Music Be The Food Of Love, Play On, Give Me Excess Of It; That Surfeiting, The Appetite May Sicken, And So Die."
+> — *William Shakespeare*

@@ -409,3 +409,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-24)
 > "If Music Be The Food Of Love, Play On, Give Me Excess Of It; That Surfeiting, The Appetite May Sicken, And So Die."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-07-24)
+> "I'm so fast that last night I turned off the light switch in my hotel room and was in bed before the room was dark."
+> — *Muhammad Ali*

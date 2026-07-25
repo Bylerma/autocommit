@@ -433,3 +433,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-25)
 > "You Cannot Escape The Responsibility Of Tomorrow By Evading It Today."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-07-25)
+> "I grow silent. Dear soul, you speak."
+> — *Rumi*

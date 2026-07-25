@@ -429,3 +429,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-25)
 > "I don't count my sit-ups. I only start counting when it starts hurting. When I feel pain, that's when I start counting, because that's when it really counts."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-25)
+> "You Cannot Escape The Responsibility Of Tomorrow By Evading It Today."
+> — *Abraham Lincoln*

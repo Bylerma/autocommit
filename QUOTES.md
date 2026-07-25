@@ -413,3 +413,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-24)
 > "I'm so fast that last night I turned off the light switch in my hotel room and was in bed before the room was dark."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-25)
+> "It's lack of faith that makes people afraid of meeting challenges, and I believed in myself."
+> — *Muhammad Ali*

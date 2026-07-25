@@ -417,3 +417,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-25)
 > "It's lack of faith that makes people afraid of meeting challenges, and I believed in myself."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-25)
+> "What you're thinking is what you're becoming."
+> — *Muhammad Ali*

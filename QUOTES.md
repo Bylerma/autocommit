@@ -421,3 +421,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-25)
 > "What you're thinking is what you're becoming."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-07-25)
+> "Our greatest strength lies in the gentleness and tenderness of our heart."
+> — *Rumi*

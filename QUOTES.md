@@ -437,3 +437,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-25)
 > "I grow silent. Dear soul, you speak."
 > — *Rumi*
+
+### Quote of the Day (2026-07-26)
+> "Love Is The Only Force Capable Of Transforming An Enemy Into Friend."
+> — *Martin Luther King  Jr.*

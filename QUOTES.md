@@ -441,3 +441,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-26)
 > "Love Is The Only Force Capable Of Transforming An Enemy Into Friend."
 > — *Martin Luther King  Jr.*
+
+### Quote of the Day (2026-07-26)
+> "There's nothing wrong with getting knocked down, as long as you get right back up."
+> — *Muhammad Ali*

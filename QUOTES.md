@@ -453,3 +453,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-26)
 > "There is hope after despair and many suns after darkness."
 > — *Rumi*
+
+### Quote of the Day (2026-07-26)
+> "Friendship is the hardest thing in the world to explain. It's not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything."
+> — *Muhammad Ali*

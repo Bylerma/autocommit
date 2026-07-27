@@ -465,3 +465,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-27)
 > "A Riot Is The Language Of The Unheard."
 > — *Martin Luther King, Jr.*
+
+### Quote of the Day (2026-07-27)
+> "Knowledge is the life of the mind."
+> — *Abu Bakr (R.A)*

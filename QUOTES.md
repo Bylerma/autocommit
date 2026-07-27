@@ -481,3 +481,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-27)
 > "A wise man first thinks and then speaks and a fool speaks first and then thinks."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-07-27)
+> "History Is More Or Less Bunk."
+> — *Henry Ford*

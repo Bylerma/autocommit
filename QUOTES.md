@@ -461,3 +461,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-26)
 > "To Improve Is To Change; To Be Perfect Is To Change Often."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-07-27)
+> "A Riot Is The Language Of The Unheard."
+> — *Martin Luther King, Jr.*

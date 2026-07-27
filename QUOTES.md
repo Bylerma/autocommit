@@ -473,3 +473,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-27)
 > "My Dream Is Of A Place And A Time Where America Will Once Again Be Seen As The Last Best Hope Of Earth."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-07-27)
+> "Try as much as you can to mention death. For if you were having hard times in your life, then it would give you more hope and would ease things for you. And if you were having abundant affluence of living in luxury, then it would make it less luxurious."
+> — *Umar ibn Al-Khattāb (R.A)*

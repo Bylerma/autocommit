@@ -501,3 +501,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-28)
 > "When I Hear A Man Preach, I Like To See Him Act As If He Were Fighting Bees."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-07-28)
+> "Death is the easiest of all things after it, and the hardest of all things before it."
+> — *Abu Bakr (R.A)*

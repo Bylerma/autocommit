@@ -485,3 +485,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-27)
 > "History Is More Or Less Bunk."
 > — *Henry Ford*
+
+### Quote of the Day (2026-07-28)
+> "Women are not a garment you wear and undress however you like. They are honored and have their rights."
+> — *Umar ibn Al-Khattāb (R.A)*

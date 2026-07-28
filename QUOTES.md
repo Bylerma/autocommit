@@ -489,3 +489,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-28)
 > "Women are not a garment you wear and undress however you like. They are honored and have their rights."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-07-28)
+> "Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see."
+> — *Ali ibn Abi Talib (R.A)*

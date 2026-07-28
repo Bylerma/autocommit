@@ -505,3 +505,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-28)
 > "Death is the easiest of all things after it, and the hardest of all things before it."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-07-28)
+> "India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system."
+> — *Abdul Kalam*

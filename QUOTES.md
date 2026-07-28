@@ -493,3 +493,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-28)
 > "Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-07-28)
+> "Two things cause people to be destroyed: fear of poverty and seeking superiority through pride."
+> — *Ali ibn Abi Talib (R.A)*

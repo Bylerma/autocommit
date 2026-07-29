@@ -517,3 +517,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-29)
 > "Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less."
 > — *C. S. Lewis*
+
+### Quote of the Day (2026-07-29)
+> "Don't get lost in your pain, know that one day your pain will become your cure."
+> — *Rumi*

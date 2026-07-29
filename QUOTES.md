@@ -529,3 +529,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-29)
 > "The nourishment of body is food, while the nourishment of the soul is feeding others."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-07-29)
+> "The Best Way To Find Out If You Can Trust Somebody Is To Trust Them."
+> — *Ernest Hemingway*

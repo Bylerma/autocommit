@@ -521,3 +521,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-29)
 > "Don't get lost in your pain, know that one day your pain will become your cure."
 > — *Rumi*
+
+### Quote of the Day (2026-07-29)
+> "Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life."
+> — *Abdul Kalam*

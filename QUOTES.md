@@ -509,3 +509,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-28)
 > "India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-07-29)
+> "If you lose a big fight, it will worry you all of your life. It will plague you - until you get your revenge."
+> — *Muhammad Ali*

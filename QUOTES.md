@@ -525,3 +525,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-29)
 > "Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-07-29)
+> "The nourishment of body is food, while the nourishment of the soul is feeding others."
+> — *Ali ibn Abi Talib (R.A)*

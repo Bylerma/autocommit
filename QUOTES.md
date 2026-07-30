@@ -533,3 +533,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-29)
 > "The Best Way To Find Out If You Can Trust Somebody Is To Trust Them."
 > — *Ernest Hemingway*
+
+### Quote of the Day (2026-07-30)
+> "I'm a fighter. I believe in the eye-for-an-eye business. I'm no cheek turner. I got no respect for a man who won't hit back. You kill my dog, you better hide your cat."
+> — *Muhammad Ali*

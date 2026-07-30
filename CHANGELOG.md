@@ -410,3 +410,6 @@ All notable changes to this project will be documented in this file.
 
 ## [2026-07-30] - Auto Log
 - 🐛 Added test coverage for core auth utilities
+
+## [2026-07-30] - Auto Log
+- 📝 Refactored state management hooks for clarity

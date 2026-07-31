@@ -573,3 +573,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-31)
 > "There Cannot Be A God Because If There Were One, I Could Not Believe That I Was Not He."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-07-31)
+> "Dislike in yourself what you dislike in others."
+> — *Ali ibn Abi Talib (R.A)*

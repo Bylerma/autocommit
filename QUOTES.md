@@ -557,3 +557,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-30)
 > "Love Is The Only Force Capable Of Transforming An Enemy Into Friend."
 > — *Martin Luther King  Jr.*
+
+### Quote of the Day (2026-07-31)
+> "He who aspires to paradise should learn to deal with people with kindness."
+> — *Abu Bakr (R.A)*

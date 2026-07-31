@@ -565,3 +565,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-31)
 > "I Have Not Failed. I'Ve Just Found 10 000 Ways That Won'T Work."
 > — *Thomas A. Edison*
+
+### Quote of the Day (2026-07-31)
+> "English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese."
+> — *Abdul Kalam*

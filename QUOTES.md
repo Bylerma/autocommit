@@ -601,3 +601,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-01)
 > "Problems are common, but attitude makes the difference."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-01)
+> "A Fool can become a Genius when he understands he is a Fool but. A Genius can become a Fool when he understands he is a Genius."
+> — *Abdul Kalam*

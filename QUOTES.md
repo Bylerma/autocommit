@@ -581,3 +581,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-07-31)
 > "There is no harm in patience, and no profit in lamentation. Death is easier to bear (than) that which precedes it, and more severe than that which comes after it. Remember the death of the Apostle of God, and your sorrow will be lessened."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-08-01)
+> "Yesterday Is Gone. Tomorrow Has Not Yet Come. We Have Only Today. Let Us Begin."
+> — *Mother Teresa*

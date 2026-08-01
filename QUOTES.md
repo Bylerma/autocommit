@@ -585,3 +585,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-01)
 > "Yesterday Is Gone. Tomorrow Has Not Yet Come. We Have Only Today. Let Us Begin."
 > — *Mother Teresa*
+
+### Quote of the Day (2026-08-01)
+> "Words, Without Power, Is Mere Philosophy."
+> — *Muhammad Iqbal*

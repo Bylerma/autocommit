@@ -589,3 +589,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-01)
 > "Words, Without Power, Is Mere Philosophy."
 > — *Muhammad Iqbal*
+
+### Quote of the Day (2026-08-01)
+> "Don’T Let The Noise Of Others’ Opinions Drown Out Your Own Inner Voice."
+> — *Steve Jobs*

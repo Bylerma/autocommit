@@ -597,3 +597,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-01)
 > "Faith Is Taking The First Step Even When You Don'T See The Whole Staircase."
 > — *Martin Luther King  Jr.*
+
+### Quote of the Day (2026-08-01)
+> "Problems are common, but attitude makes the difference."
+> — *Abdul Kalam*

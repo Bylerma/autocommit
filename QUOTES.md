@@ -605,3 +605,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-01)
 > "A Fool can become a Genius when he understands he is a Fool but. A Genius can become a Fool when he understands he is a Genius."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-02)
+> "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+> — *Rumi*

@@ -625,3 +625,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-02)
 > "I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over."
 > — *Muhammad Yunus*
+
+### Quote of the Day (2026-08-02)
+> "Like your body your mind also gets tired so refresh it by wise sayings."
+> — *Ali ibn Abi Talib (R.A)*

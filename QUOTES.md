@@ -609,3 +609,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-02)
 > "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
 > — *Rumi*
+
+### Quote of the Day (2026-08-02)
+> "I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."
+> — *Abu Bakr (R.A)*

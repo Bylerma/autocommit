@@ -629,3 +629,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-02)
 > "Like your body your mind also gets tired so refresh it by wise sayings."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-08-03)
+> "He Who Avoids Complaint Invites Happiness."
+> — *Abu Bakr*

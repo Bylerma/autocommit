@@ -633,3 +633,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-03)
 > "He Who Avoids Complaint Invites Happiness."
 > — *Abu Bakr*
+
+### Quote of the Day (2026-08-03)
+> "Money and riches don't mean nothing to me. I don't care nothing about being no rich individual. I'm not living for glory or for fame; all this is doomed for destruction. You got it today, tomorrow it's gone. I got bigger things on my mind than that. I got Islam on my mind."
+> — *Muhammad Ali*

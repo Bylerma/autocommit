@@ -637,3 +637,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-03)
 > "Money and riches don't mean nothing to me. I don't care nothing about being no rich individual. I'm not living for glory or for fame; all this is doomed for destruction. You got it today, tomorrow it's gone. I got bigger things on my mind than that. I got Islam on my mind."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-03)
+> "Do not get elated at any victory, for all such victory is subject to the will of God."
+> — *Abu Bakr (R.A)*

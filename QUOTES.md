@@ -645,3 +645,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-03)
 > "Be silent, Only the Hand of God Can remove The burdens of your heart."
 > — *Rumi*
+
+### Quote of the Day (2026-08-03)
+> "Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even."
+> — *Muhammad Ali*

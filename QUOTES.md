@@ -669,3 +669,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-04)
 > "Out beyond ideas of wrongdoing and rightdoing there is a field. I'll meet you there. When the soul lies down in that grass the world is too full to talk about."
 > — *Rumi*
+
+### Quote of the Day (2026-08-04)
+> "If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."
+> — *Umar ibn Al-Khattāb (R.A)*

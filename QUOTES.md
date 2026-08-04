@@ -673,3 +673,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-04)
 > "If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-08-04)
+> "A Riot Is At Bottom The Language Of The Unheard."
+> — *Martin Luther King, Jr.*

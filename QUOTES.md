@@ -681,3 +681,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-05)
 > "Keep silent, because the world of silence is a vast fullness."
 > — *Rumi*
+
+### Quote of the Day (2026-08-05)
+> "Get up sucker and fight. Get up and fight."
+> — *Muhammad Ali*

@@ -685,3 +685,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-05)
 > "Get up sucker and fight. Get up and fight."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-05)
+> "George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie."
+> — *Mark Twain*

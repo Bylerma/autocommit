@@ -705,3 +705,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-06)
 > "To fight against one's desires is the greatest of all fights."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-08-06)
+> "Do not take someone's silence as his pride, perhaps he is busy fighting with his self."
+> — *Ali ibn Abi Talib (R.A)*

@@ -701,3 +701,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-05)
 > "I don't always know what I'm talking about, but I know I'm right."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-06)
+> "To fight against one's desires is the greatest of all fights."
+> — *Ali ibn Abi Talib (R.A)*

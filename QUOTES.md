@@ -729,3 +729,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-07)
 > "Men Occasionally Stumble Over The Truth, But Most Of Them Pick Themselves Up And Hurry Off As If Nothing Had Happened."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-08-07)
+> "One Of The Greatest Diseases Is To Be Nobody To Anybody."
+> — *Mother Teresa*

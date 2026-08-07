@@ -733,3 +733,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-07)
 > "One Of The Greatest Diseases Is To Be Nobody To Anybody."
 > — *Mother Teresa*
+
+### Quote of the Day (2026-08-07)
+> "Thunder Is Good, Thunder Is Impressive; But It Is Lightning That Does The Work."
+> — *Mark Twain*

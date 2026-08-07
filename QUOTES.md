@@ -717,3 +717,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-07)
 > "The Airplane Has Had A Big Impact On My Life."
 > — *Jim Courier*
+
+### Quote of the Day (2026-08-07)
+> "You are the soul of the soul of the universe, and your name is Love."
+> — *Rumi*

@@ -721,3 +721,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-07)
 > "You are the soul of the soul of the universe, and your name is Love."
 > — *Rumi*
+
+### Quote of the Day (2026-08-07)
+> "In your light I learn how to love."
+> — *Rumi*

@@ -753,3 +753,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-08)
 > "Once your mind stretches to a new level it never goes back to its original dimension."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-08)
+> "The Truth. It Is A Beautiful And Terrible Thing, And Must Therefore Be Treated With Great Caution."
+> — *J. K. Rowling*

@@ -757,3 +757,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-08)
 > "The Truth. It Is A Beautiful And Terrible Thing, And Must Therefore Be Treated With Great Caution."
 > — *J. K. Rowling*
+
+### Quote of the Day (2026-08-08)
+> "He Who Has Never Learned To Obey Cannot Be A Good Commander."
+> — *Aristotle*

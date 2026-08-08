@@ -761,3 +761,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-08)
 > "He Who Has Never Learned To Obey Cannot Be A Good Commander."
 > — *Aristotle*
+
+### Quote of the Day (2026-08-08)
+> "Brooding over blunders is the biggest blunder."
+> — *Muhammad Ali*

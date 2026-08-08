@@ -765,3 +765,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-08)
 > "Brooding over blunders is the biggest blunder."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-08)
+> "Do not be too hard, lest you be broken; do not be too soft, lest you be squeezed."
+> — *Ali ibn Abi Talib (R.A)*

@@ -785,3 +785,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-09)
 > "If Your Eyes Are Opened, You'll See The Things Worth Seeing."
 > — *Rumi*
+
+### Quote of the Day (2026-08-09)
+> "The Lack Of Money Is The Root Of All Evil."
+> — *Mark Twain*

@@ -789,3 +789,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-09)
 > "The Lack Of Money Is The Root Of All Evil."
 > — *Mark Twain*
+
+### Quote of the Day (2026-08-09)
+> "Strength Does Not Come From Physical Capacity. It Comes From An Indomitable Will."
+> — *Mahatma Gandhi*

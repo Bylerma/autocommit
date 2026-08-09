@@ -777,3 +777,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-09)
 > "A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer."
 > — *Bruce Lee*
+
+### Quote of the Day (2026-08-09)
+> "Do not deceive or be faithless even with your enemy."
+> — *Abu Bakr (R.A)*

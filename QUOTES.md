@@ -793,3 +793,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-09)
 > "Strength Does Not Come From Physical Capacity. It Comes From An Indomitable Will."
 > — *Mahatma Gandhi*
+
+### Quote of the Day (2026-08-09)
+> "Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing."
+> — *Theodore Roosevelt*

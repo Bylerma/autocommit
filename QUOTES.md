@@ -781,3 +781,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-09)
 > "Do not deceive or be faithless even with your enemy."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-08-09)
+> "If Your Eyes Are Opened, You'll See The Things Worth Seeing."
+> — *Rumi*

@@ -773,3 +773,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-08)
 > "Eating Words Has Never Given Me Indigestion."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-08-09)
+> "A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer."
+> — *Bruce Lee*

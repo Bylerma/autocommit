@@ -797,3 +797,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-09)
 > "Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing."
 > — *Theodore Roosevelt*
+
+### Quote of the Day (2026-08-10)
+> "Tolerance and understanding won't 'trickle down' in our society any more than wealth does."
+> — *Muhammad Ali*

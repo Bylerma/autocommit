@@ -817,3 +817,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-10)
 > "The Devil'S Voice Is Sweet To Hear."
 > — *Stephen King*
+
+### Quote of the Day (2026-08-10)
+> "You are the soul of the soul of the universe, and your name is Love."
+> — *Rumi*

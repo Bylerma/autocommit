@@ -813,3 +813,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-10)
 > "It'S Better To Be A Lion For A Day Than A Sheep All Your Life."
 > — *Elizabeth Kenny*
+
+### Quote of the Day (2026-08-10)
+> "The Devil'S Voice Is Sweet To Hear."
+> — *Stephen King*

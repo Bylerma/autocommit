@@ -809,3 +809,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-10)
 > "When The Going Gets Weird, The Weird Turn Pro."
 > — *Hunter S. Thompson*
+
+### Quote of the Day (2026-08-10)
+> "It'S Better To Be A Lion For A Day Than A Sheep All Your Life."
+> — *Elizabeth Kenny*

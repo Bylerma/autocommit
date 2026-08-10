@@ -801,3 +801,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-10)
 > "Tolerance and understanding won't 'trickle down' in our society any more than wealth does."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-10)
+> "I grow silent. Dear soul, you speak."
+> — *Rumi*

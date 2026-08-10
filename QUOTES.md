@@ -805,3 +805,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-10)
 > "I grow silent. Dear soul, you speak."
 > — *Rumi*
+
+### Quote of the Day (2026-08-10)
+> "When The Going Gets Weird, The Weird Turn Pro."
+> — *Hunter S. Thompson*

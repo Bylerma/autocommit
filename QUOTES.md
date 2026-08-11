@@ -821,3 +821,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-10)
 > "You are the soul of the soul of the universe, and your name is Love."
 > — *Rumi*
+
+### Quote of the Day (2026-08-11)
+> "A Life Of Leisure And A Life Of Laziness Are Two Things. There Will Be Sleeping Enough In The Grave."
+> — *Benjamin Franklin*

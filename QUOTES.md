@@ -833,3 +833,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-11)
 > "Where there is ruin, there is hope for a treasure."
 > — *Rumi*
+
+### Quote of the Day (2026-08-11)
+> "Take Things As They Are. Punch When You Have To Punch. Kick When You Have To Kick."
+> — *Bruce Lee*

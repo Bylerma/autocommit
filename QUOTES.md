@@ -837,3 +837,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-11)
 > "Take Things As They Are. Punch When You Have To Punch. Kick When You Have To Kick."
 > — *Bruce Lee*
+
+### Quote of the Day (2026-08-11)
+> "No Legacy Is So Rich As Honesty."
+> — *William Shakespeare*

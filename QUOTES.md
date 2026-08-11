@@ -841,3 +841,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-11)
 > "No Legacy Is So Rich As Honesty."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-08-11)
+> "Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love."
+> — *Rumi*

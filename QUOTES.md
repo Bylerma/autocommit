@@ -825,3 +825,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-11)
 > "A Life Of Leisure And A Life Of Laziness Are Two Things. There Will Be Sleeping Enough In The Grave."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-08-11)
+> "Everyone Should Be Respected As An Individual, But No One Idolized."
+> — *Albert Einstein*

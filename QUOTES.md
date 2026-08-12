@@ -865,3 +865,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-12)
 > "Sports For Me Is When A Guy Walks Off The Court, And You Really Can'T Tell Whether He Won Or Lost, When He Carries Himself With Pride Either Way."
 > — *Jim Courier*
+
+### Quote of the Day (2026-08-12)
+> "If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity."
+> — *John F. Kennedy*

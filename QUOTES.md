@@ -861,3 +861,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-12)
 > "A Compliment Is Something Like A Kiss Through A Veil."
 > — *Victor Hugo*
+
+### Quote of the Day (2026-08-12)
+> "Sports For Me Is When A Guy Walks Off The Court, And You Really Can'T Tell Whether He Won Or Lost, When He Carries Himself With Pride Either Way."
+> — *Jim Courier*

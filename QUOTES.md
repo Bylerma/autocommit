@@ -873,3 +873,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-13)
 > "Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-08-13)
+> "Youth is not restored by the dyeing of your hair."
+> — *Abu Bakr (R.A)*

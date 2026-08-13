@@ -885,3 +885,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-13)
 > "My definition of evil is unfriendliness."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-13)
+> "Never Do Anything Against Conscience Even If The State Demands It."
+> — *Albert Einstein*

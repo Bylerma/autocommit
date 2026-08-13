@@ -881,3 +881,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-13)
 > "To line only for some unknown future is superficial."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-13)
+> "My definition of evil is unfriendliness."
+> — *Muhammad Ali*

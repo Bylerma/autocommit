@@ -869,3 +869,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-12)
 > "If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity."
 > — *John F. Kennedy*
+
+### Quote of the Day (2026-08-13)
+> "Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift."
+> — *Albert Einstein*

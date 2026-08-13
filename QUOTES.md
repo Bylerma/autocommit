@@ -889,3 +889,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-13)
 > "Never Do Anything Against Conscience Even If The State Demands It."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-08-13)
+> "Be melting snow. Wash yourself of yourself."
+> — *Rumi*

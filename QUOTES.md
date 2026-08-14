@@ -893,3 +893,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-13)
 > "Be melting snow. Wash yourself of yourself."
 > — *Rumi*
+
+### Quote of the Day (2026-08-14)
+> "He who does now know evil will fall into it."
+> — *Umar ibn Al-Khattāb (R.A)*

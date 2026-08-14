@@ -909,3 +909,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-14)
 > "Coming Together Is A Beginning; Keeping Together Is Progress; Working Together Is Success."
 > — *Henry Ford*
+
+### Quote of the Day (2026-08-14)
+> "Some Are Born Great, Some Achieve Greatness, And Some Have Greatness Thrust Upon Them."
+> — *William Shakespeare*

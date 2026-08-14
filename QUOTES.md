@@ -897,3 +897,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-14)
 > "He who does now know evil will fall into it."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-08-14)
+> "Often your utterances and expressions of your face leak out the secrets of your hidden thoughts."
+> — *Ali ibn Abi Talib (R.A)*

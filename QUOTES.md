@@ -933,3 +933,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-15)
 > "Morality Is The Herd-Instinct In The Individual."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-08-15)
+> "To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene."
+> — *Umar ibn Al-Khattāb (R.A)*

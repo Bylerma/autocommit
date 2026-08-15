@@ -921,3 +921,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-15)
 > "To My Mind The Old Masters Are Not Art; Their Value Is In Their Scarcity."
 > — *Thomas A. Edison*
+
+### Quote of the Day (2026-08-15)
+> "Whatever Your Heart Clings To And Confides In, That Is Really Your God."
+> — *Martin Luther*

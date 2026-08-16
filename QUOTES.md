@@ -953,3 +953,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-16)
 > "When your mother dies, it really hurts. But with time, you get used to it. That's nature's way."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-16)
+> "A Man Should Never Neglect His Family For Business."
+> — *Walt Disney*

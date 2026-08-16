@@ -961,3 +961,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-16)
 > "It Has Been My Experience That Folks Who Have No Vices Have Very Few Virtues."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-08-16)
+> "We Make War That We May Live In Peace."
+> — *Aristotle*

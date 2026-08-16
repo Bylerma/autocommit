@@ -945,3 +945,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-16)
 > "Problems are common, but attitude makes the difference."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-16)
+> "You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life."
+> — *Winston Churchill*

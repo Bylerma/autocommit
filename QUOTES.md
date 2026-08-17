@@ -985,3 +985,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-17)
 > "It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-08-17)
+> "No Legacy Is So Rich As Honesty."
+> — *William Shakespeare*

@@ -977,3 +977,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-17)
 > "Light up the fire of love inside and blaze the thoughts away."
 > — *Rumi*
+
+### Quote of the Day (2026-08-17)
+> "Tolerance and understanding won't 'trickle down' in our society any more than wealth does."
+> — *Muhammad Ali*

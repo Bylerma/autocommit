@@ -973,3 +973,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-17)
 > "The Trouble With Censors Is That They Worry If A Girl Has Cleavage. They Ought To Worry If She Hasn'T Any."
 > — *Marilyn Monroe*
+
+### Quote of the Day (2026-08-17)
+> "Light up the fire of love inside and blaze the thoughts away."
+> — *Rumi*

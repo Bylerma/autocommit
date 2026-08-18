@@ -1005,3 +1005,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-18)
 > "I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'."
 > — *Maya Angelou*
+
+### Quote of the Day (2026-08-18)
+> "Be empty of worrying. Think of who created thought! Why do you stay in prison When the door is so wide open?"
+> — *Rumi*

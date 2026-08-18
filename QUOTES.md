@@ -1001,3 +1001,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-18)
 > "Democracy Is When The Indigent, And Not The Men Of Property, Are The Rulers."
 > — *Aristotle*
+
+### Quote of the Day (2026-08-18)
+> "I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'."
+> — *Maya Angelou*

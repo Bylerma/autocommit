@@ -989,3 +989,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-17)
 > "No Legacy Is So Rich As Honesty."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-08-18)
+> "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."
+> — *Muhammad Ali*

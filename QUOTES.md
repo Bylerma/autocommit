@@ -997,3 +997,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-18)
 > "Your Time Is Limited, So Don'T Waste It Living Someone Else'S Life."
 > — *Steve Jobs*
+
+### Quote of the Day (2026-08-18)
+> "Democracy Is When The Indigent, And Not The Men Of Property, Are The Rulers."
+> — *Aristotle*

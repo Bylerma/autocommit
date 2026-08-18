@@ -1009,3 +1009,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-18)
 > "Be empty of worrying. Think of who created thought! Why do you stay in prison When the door is so wide open?"
 > — *Rumi*
+
+### Quote of the Day (2026-08-18)
+> "The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep!"
+> — *Rumi*

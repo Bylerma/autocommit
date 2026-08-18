@@ -993,3 +993,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-18)
 > "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-18)
+> "Your Time Is Limited, So Don'T Waste It Living Someone Else'S Life."
+> — *Steve Jobs*

@@ -1013,3 +1013,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-18)
 > "The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep!"
 > — *Rumi*
+
+### Quote of the Day (2026-08-19)
+> "A Nation That Continues Year After Year To Spend More Money On Military Defense Than On Programs Of Social Uplift Is Approaching Spiritual Doom."
+> — *Martin Luther King  Jr.*

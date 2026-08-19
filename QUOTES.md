@@ -1033,3 +1033,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-19)
 > "Pride in the case of a rich man is bad, but pride in the case of a poor man is worse."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-08-19)
+> "The Criminal Is Trying To Solve His Immediate Problems."
+> — *Naguib Mahfouz*

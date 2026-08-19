@@ -1029,3 +1029,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-19)
 > "The Roots Of Education Are Bitter, But The Fruit Is Sweet."
 > — *Aristotle*
+
+### Quote of the Day (2026-08-19)
+> "Pride in the case of a rich man is bad, but pride in the case of a poor man is worse."
+> — *Abu Bakr (R.A)*

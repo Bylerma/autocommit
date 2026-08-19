@@ -1021,3 +1021,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-19)
 > "You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win."
 > — *Zig Ziglar*
+
+### Quote of the Day (2026-08-19)
+> "For me, there are two types of people: the young and the experienced."
+> — *Abdul Kalam*

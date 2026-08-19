@@ -1017,3 +1017,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-19)
 > "A Nation That Continues Year After Year To Spend More Money On Military Defense Than On Programs Of Social Uplift Is Approaching Spiritual Doom."
 > — *Martin Luther King  Jr.*
+
+### Quote of the Day (2026-08-19)
+> "You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win."
+> — *Zig Ziglar*

@@ -1025,3 +1025,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-19)
 > "For me, there are two types of people: the young and the experienced."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-19)
+> "The Roots Of Education Are Bitter, But The Fruit Is Sweet."
+> — *Aristotle*

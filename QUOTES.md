@@ -1053,3 +1053,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-20)
 > "I don't always know what I'm talking about, but I know I'm right."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-20)
+> "Success is not achieved by winning all the time. Real success comes when we rise after we fall."
+> — *Muhammad Ali*

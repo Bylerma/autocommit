@@ -1037,3 +1037,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-19)
 > "The Criminal Is Trying To Solve His Immediate Problems."
 > — *Naguib Mahfouz*
+
+### Quote of the Day (2026-08-20)
+> "Money Demands That You Sell, Not Your Weakness To Men'S Stupidity, But Your Talent To Their Reason."
+> — *Ayn Rand*

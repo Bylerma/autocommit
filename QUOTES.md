@@ -1057,3 +1057,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-20)
 > "Success is not achieved by winning all the time. Real success comes when we rise after we fall."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-20)
+> "We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them."
+> — *Abdul Kalam*

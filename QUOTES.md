@@ -1049,3 +1049,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-20)
 > "Innovation Distinguishes Between A Leader And A Follower."
 > — *Steve Jobs*
+
+### Quote of the Day (2026-08-20)
+> "I don't always know what I'm talking about, but I know I'm right."
+> — *Muhammad Ali*

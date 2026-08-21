@@ -1065,3 +1065,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-21)
 > "Piety is the most solid goodness, and the vilest of what is evil is vice."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-08-21)
+> "I was the first one in the gym, and the last one to leave."
+> — *Muhammad Ali*

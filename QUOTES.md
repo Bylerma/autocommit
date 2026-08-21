@@ -1077,3 +1077,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-21)
 > "To Love Another Person Is To See The Face Of God."
 > — *Victor Hugo*
+
+### Quote of the Day (2026-08-21)
+> "Why do I want my wife to show off her panties when the wind blows? Horses show their behinds, and cows and mules, not humans."
+> — *Muhammad Ali*

@@ -1061,3 +1061,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-20)
 > "We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-21)
+> "Piety is the most solid goodness, and the vilest of what is evil is vice."
+> — *Abu Bakr (R.A)*

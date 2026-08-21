@@ -1073,3 +1073,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-21)
 > "When The Going Gets Weird, The Weird Turn Pro."
 > — *Hunter S. Thompson*
+
+### Quote of the Day (2026-08-21)
+> "To Love Another Person Is To See The Face Of God."
+> — *Victor Hugo*

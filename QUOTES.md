@@ -1069,3 +1069,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-21)
 > "I was the first one in the gym, and the last one to leave."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-21)
+> "When The Going Gets Weird, The Weird Turn Pro."
+> — *Hunter S. Thompson*

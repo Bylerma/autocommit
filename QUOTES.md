@@ -1097,3 +1097,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-22)
 > "Life Loves The Liver Of It."
 > — *Maya Angelou*
+
+### Quote of the Day (2026-08-22)
+> "It'S Hard To Be Humble, When You'Re As Great As I Am."
+> — *Muhammad Ali*

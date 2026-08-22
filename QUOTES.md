@@ -1089,3 +1089,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-22)
 > "Wealth tends to create enemies, whereas knowledge tends to warm hearts."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-08-22)
+> "Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."
+> — *Friedrich Nietzsche*

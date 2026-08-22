@@ -1085,3 +1085,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-21)
 > "I'm gonna whup whoever stole my bike!"
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-22)
+> "Wealth tends to create enemies, whereas knowledge tends to warm hearts."
+> — *Ali ibn Abi Talib (R.A)*

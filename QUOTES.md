@@ -1125,3 +1125,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-23)
 > "If I could meet anybody? The prophet Muhammad."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-23)
+> "The wisest among you is he whose sustenance is the fear of Allah."
+> — *Umar ibn Al-Khattāb (R.A)*

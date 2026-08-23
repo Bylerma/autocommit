@@ -1109,3 +1109,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-22)
 > "My Dream Is Of A Place And A Time Where America Will Once Again Be Seen As The Last Best Hope Of Earth."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-08-23)
+> "Take account of your deeds before they are taken account of."
+> — *Umar ibn Al-Khattāb (R.A)*

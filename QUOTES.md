@@ -1121,3 +1121,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-23)
 > "Fear only the will of God and you will have no cause to fear anyone else."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-08-23)
+> "If I could meet anybody? The prophet Muhammad."
+> — *Muhammad Ali*

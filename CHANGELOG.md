@@ -842,3 +842,6 @@ All notable changes to this project will be documented in this file.
 
 ## [2026-08-23] - Auto Log
 - 🎨 Fixed race condition in async webhook handler
+
+## [2026-08-23] - Auto Log
+- 🛠️ Refactored state management hooks for clarity

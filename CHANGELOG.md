@@ -836,3 +836,6 @@ All notable changes to this project will be documented in this file.
 
 ## [2026-08-23] - Auto Log
 - 🎨 Cleaned up stale developer console logs
+
+## [2026-08-23] - Auto Log
+- 🛠️ Updated local documentation manifest

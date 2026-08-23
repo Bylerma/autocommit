@@ -1129,3 +1129,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-23)
 > "The wisest among you is he whose sustenance is the fear of Allah."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-08-23)
+> "Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side."
+> — *Zig Ziglar*

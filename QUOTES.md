@@ -1141,3 +1141,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-24)
 > "What hurts you, blesses you. Darkness is your candle."
 > — *Rumi*
+
+### Quote of the Day (2026-08-24)
+> "For 2,500 years, India has never invaded anybody."
+> — *Abdul Kalam*

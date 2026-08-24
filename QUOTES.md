@@ -1137,3 +1137,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-24)
 > "Learning Never Exhausts The Mind."
 > — *Leonardo Da Vinci*
+
+### Quote of the Day (2026-08-24)
+> "What hurts you, blesses you. Darkness is your candle."
+> — *Rumi*

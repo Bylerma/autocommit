@@ -1145,3 +1145,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-24)
 > "For 2,500 years, India has never invaded anybody."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-24)
+> "If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."
+> — *Umar ibn Al-Khattāb (R.A)*

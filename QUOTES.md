@@ -1153,3 +1153,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-24)
 > "Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-24)
+> "Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."
+> — *Paulo Coelho*

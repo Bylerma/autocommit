@@ -1149,3 +1149,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-24)
 > "If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-08-24)
+> "Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even."
+> — *Muhammad Ali*

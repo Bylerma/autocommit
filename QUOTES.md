@@ -1161,3 +1161,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-25)
 > "I'M Not In This World To Live Up To Your Expectations And You'Re Not In This World To Live Up To Mine."
 > — *Bruce Lee*
+
+### Quote of the Day (2026-08-25)
+> "You Cannot Create Experience. You Must Undergo It."
+> — *Albert Camus*

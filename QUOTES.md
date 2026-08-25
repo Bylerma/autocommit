@@ -1157,3 +1157,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-24)
 > "Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."
 > — *Paulo Coelho*
+
+### Quote of the Day (2026-08-25)
+> "I'M Not In This World To Live Up To Your Expectations And You'Re Not In This World To Live Up To Mine."
+> — *Bruce Lee*

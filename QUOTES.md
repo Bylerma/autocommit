@@ -1169,3 +1169,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-25)
 > "A moment of patience in a moment of anger prevents a thousand moments of regret."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-08-25)
+> "I Have A Theory That The Truth Is Never Told During The Nine-To-Five Hours."
+> — *Hunter S. Thompson*

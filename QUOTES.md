@@ -1173,3 +1173,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-25)
 > "I Have A Theory That The Truth Is Never Told During The Nine-To-Five Hours."
 > — *Hunter S. Thompson*
+
+### Quote of the Day (2026-08-25)
+> "Don'T Go Around Saying The World Owes You A Living. The World Owes You Nothing. It Was Here First."
+> — *Mark Twain*

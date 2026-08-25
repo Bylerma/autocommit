@@ -1177,3 +1177,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-25)
 > "Don'T Go Around Saying The World Owes You A Living. The World Owes You Nothing. It Was Here First."
 > — *Mark Twain*
+
+### Quote of the Day (2026-08-25)
+> "No Legacy Is So Rich As Honesty."
+> — *William Shakespeare*

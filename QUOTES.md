@@ -1185,3 +1185,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-26)
 > "Sports For Me Is When A Guy Walks Off The Court, And You Really Can'T Tell Whether He Won Or Lost, When He Carries Himself With Pride Either Way."
 > — *Jim Courier*
+
+### Quote of the Day (2026-08-26)
+> "He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep."
+> — *Abu Bakr*

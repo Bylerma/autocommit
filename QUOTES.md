@@ -1201,3 +1201,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-27)
 > "He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-08-27)
+> "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."
+> — *Muhammad Ali*

@@ -1205,3 +1205,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-27)
 > "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-27)
+> "I'm going to show you how great I am!"
+> — *Muhammad Ali*

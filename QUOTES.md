@@ -1197,3 +1197,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-27)
 > "Life Loves To Be Taken By The Lapel And Told: "I'M With You Kid. Let'S Go.""
 > — *Maya Angelou*
+
+### Quote of the Day (2026-08-27)
+> "He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed."
+> — *Benjamin Franklin*

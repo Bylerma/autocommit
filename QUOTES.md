@@ -1209,3 +1209,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-27)
 > "I'm going to show you how great I am!"
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-27)
+> "Never, Never, Never Give Up."
+> — *Winston Churchill*

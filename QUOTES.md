@@ -1225,3 +1225,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-28)
 > "Coming Together Is A Beginning; Keeping Together Is Progress; Working Together Is Success."
 > — *Henry Ford*
+
+### Quote of the Day (2026-08-28)
+> "There's a reason I'm known - to bring people to Allah, to God."
+> — *Muhammad Ali*

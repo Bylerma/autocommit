@@ -1217,3 +1217,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-27)
 > "All Great Achievements Require Time."
 > — *Maya Angelou*
+
+### Quote of the Day (2026-08-28)
+> "Sir, My Concern Is Not Whether God Is On Our Side; My Greatest Concern Is To Be On God'S Side, For God Is Always Right."
+> — *Abraham Lincoln*

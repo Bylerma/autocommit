@@ -1229,3 +1229,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-28)
 > "There's a reason I'm known - to bring people to Allah, to God."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-28)
+> "When I Do Good, I Feel Good. When I Do Bad, I Feel Bad. That'S My Religion."
+> — *Abraham Lincoln*

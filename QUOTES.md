@@ -1233,3 +1233,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-28)
 > "When I Do Good, I Feel Good. When I Do Bad, I Feel Bad. That'S My Religion."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-08-28)
+> "Only last week I murdered a rock, injured a stone and hospitalized a brick."
+> — *Muhammad Ali*

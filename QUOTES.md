@@ -1241,3 +1241,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-28)
 > "Uneasy Lies The Head That Wears A Crown."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-08-29)
+> "There is a King Who is aware of every Mask you put on."
+> — *Rumi*

@@ -1257,3 +1257,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-29)
 > "If You Would Have A Faithful Servant, And One That You Like, Serve Yourself."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-08-29)
+> "The outcome of fear is disappointment and shyness is frustration."
+> — *Ali ibn Abi Talib (R.A)*

@@ -1269,3 +1269,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-29)
 > "Once You Replace Negative Thoughts With Positive Ones, You'Ll Start Having Positive Results."
 > — *Willie Nelson*
+
+### Quote of the Day (2026-08-29)
+> "Live everyday as if it were your last because someday you're going to be right."
+> — *Muhammad Ali*

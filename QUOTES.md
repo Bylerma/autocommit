@@ -1273,3 +1273,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-29)
 > "Live everyday as if it were your last because someday you're going to be right."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-08-29)
+> "Keep Your Eyes On The Stars, And Your Feet On The Ground."
+> — *Theodore Roosevelt*

@@ -1293,3 +1293,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-30)
 > "Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-30)
+> "No man can have anything better after faith than a woman of righteous character, loving and child-bearing. And no man can have anything worse after unbelief than a sharp-tongued woman of bad character."
+> — *Umar ibn Al-Khattāb (R.A)*

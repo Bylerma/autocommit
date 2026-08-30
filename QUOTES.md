@@ -1281,3 +1281,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-30)
 > "Expect The Best. Prepare For The Worst. Capitalize On What Comes."
 > — *Zig Ziglar*
+
+### Quote of the Day (2026-08-30)
+> "The weakest man is the one who is able to correct his moral defects, but doesn't take action."
+> — *Ali ibn Abi Talib (R.A)*

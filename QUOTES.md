@@ -1289,3 +1289,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-30)
 > "Dream, Dream Dream Dreams transform into thoughts And thoughts result in action."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-08-30)
+> "Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity."
+> — *Abdul Kalam*

@@ -1297,3 +1297,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-30)
 > "No man can have anything better after faith than a woman of righteous character, loving and child-bearing. And no man can have anything worse after unbelief than a sharp-tongued woman of bad character."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-08-30)
+> "The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not."
+> — *C. S. Lewis*

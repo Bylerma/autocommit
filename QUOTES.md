@@ -1277,3 +1277,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-29)
 > "Keep Your Eyes On The Stars, And Your Feet On The Ground."
 > — *Theodore Roosevelt*
+
+### Quote of the Day (2026-08-30)
+> "Expect The Best. Prepare For The Worst. Capitalize On What Comes."
+> — *Zig Ziglar*

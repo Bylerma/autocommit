@@ -1285,3 +1285,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-30)
 > "The weakest man is the one who is able to correct his moral defects, but doesn't take action."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-08-30)
+> "Dream, Dream Dream Dreams transform into thoughts And thoughts result in action."
+> — *Abdul Kalam*

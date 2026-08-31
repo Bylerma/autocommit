@@ -1309,3 +1309,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-31)
 > "I am so mad with love that mad men say to me - be still!"
 > — *Rumi*
+
+### Quote of the Day (2026-08-31)
+> "The criterion of action is that todays work should not be deferred till the following day."
+> — *Umar ibn Al-Khattāb (R.A)*

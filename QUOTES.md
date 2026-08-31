@@ -1301,3 +1301,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-30)
 > "The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not."
 > — *C. S. Lewis*
+
+### Quote of the Day (2026-08-31)
+> "Youth is not restored by the dyeing of your hair."
+> — *Abu Bakr (R.A)*

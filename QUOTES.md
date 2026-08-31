@@ -1305,3 +1305,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-31)
 > "Youth is not restored by the dyeing of your hair."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-08-31)
+> "I am so mad with love that mad men say to me - be still!"
+> — *Rumi*

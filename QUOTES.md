@@ -1317,3 +1317,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-01)
 > "God helps those who fear Him."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-09-01)
+> "Riches without faith are the greatest poverty."
+> — *Ali ibn Abi Talib (R.A)*

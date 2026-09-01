@@ -1313,3 +1313,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-08-31)
 > "The criterion of action is that todays work should not be deferred till the following day."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-01)
+> "God helps those who fear Him."
+> — *Abu Bakr (R.A)*

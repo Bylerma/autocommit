@@ -1341,3 +1341,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-01)
 > "When I Hear A Man Preach, I Like To See Him Act As If He Were Fighting Bees."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-09-01)
+> "It'S Better To Be A Lion For A Day Than A Sheep All Your Life."
+> — *Elizabeth Kenny*

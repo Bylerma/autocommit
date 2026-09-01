@@ -1321,3 +1321,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-01)
 > "Riches without faith are the greatest poverty."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-01)
+> "We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage."
+> — *Abdul Kalam*

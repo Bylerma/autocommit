@@ -1329,3 +1329,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-01)
 > "Whoever listens to slander is himself a slanderer."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-01)
+> "You Drown Not By Falling Into A River, But By Staying Submerged In It."
+> — *Paulo Coelho*

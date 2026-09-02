@@ -1361,3 +1361,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-02)
 > "He who went to the kings to seek favors went away from Allah."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-02)
+> "If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up."
+> — *Hunter S. Thompson*

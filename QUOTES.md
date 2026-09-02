@@ -1369,3 +1369,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-02)
 > "Keep Your Eyes Wide Open Before Marriage, Half Shut Afterwards."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-09-02)
+> "Open your arms if you want the Beloved's embrace."
+> — *Rumi*

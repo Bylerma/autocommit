@@ -1365,3 +1365,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-02)
 > "If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up."
 > — *Hunter S. Thompson*
+
+### Quote of the Day (2026-09-02)
+> "Keep Your Eyes Wide Open Before Marriage, Half Shut Afterwards."
+> — *Benjamin Franklin*

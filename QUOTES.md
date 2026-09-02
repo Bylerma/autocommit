@@ -1357,3 +1357,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-02)
 > "Potentially, A Government Is The Most Dangerous Threat To Man'S Rights: It Holds A Legal Monopoly On The Use Of Physical Force Against Legally Disarmed Victims."
 > — *Ayn Rand*
+
+### Quote of the Day (2026-09-02)
+> "He who went to the kings to seek favors went away from Allah."
+> — *Umar ibn Al-Khattāb (R.A)*

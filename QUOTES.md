@@ -1385,3 +1385,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-03)
 > "The So-Called Peace Path Is Not Peace And It Is Not A Substitute For Jihad And Resistance."
 > — *Ahmed Yassin*
+
+### Quote of the Day (2026-09-03)
+> "If Music Be The Food Of Love, Play On, Give Me Excess Of It; That Surfeiting, The Appetite May Sicken, And So Die."
+> — *William Shakespeare*

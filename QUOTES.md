@@ -1393,3 +1393,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-03)
 > "Only Two Things Are Infinite, The Universe And Human Stupidity, And I'M Not Sure About The Former."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-09-03)
+> "He who keeps his own counsel keeps his affairs in his own hands."
+> — *Umar ibn Al-Khattāb (R.A)*

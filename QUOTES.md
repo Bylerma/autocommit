@@ -1389,3 +1389,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-03)
 > "If Music Be The Food Of Love, Play On, Give Me Excess Of It; That Surfeiting, The Appetite May Sicken, And So Die."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-09-03)
+> "Only Two Things Are Infinite, The Universe And Human Stupidity, And I'M Not Sure About The Former."
+> — *Albert Einstein*

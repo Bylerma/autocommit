@@ -1373,3 +1373,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-02)
 > "Open your arms if you want the Beloved's embrace."
 > — *Rumi*
+
+### Quote of the Day (2026-09-03)
+> "Islam will be destroyed by the mistakes of scholars, the arguments of the hypocrites who misinterpret the Qur'an to support their views and misleading rulers."
+> — *Umar ibn Al-Khattāb (R.A)*

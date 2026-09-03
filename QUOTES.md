@@ -1381,3 +1381,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-03)
 > "You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-09-03)
+> "The So-Called Peace Path Is Not Peace And It Is Not A Substitute For Jihad And Resistance."
+> — *Ahmed Yassin*

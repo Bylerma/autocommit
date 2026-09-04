@@ -1409,3 +1409,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-04)
 > "As you start to walk on the way, the way appears."
 > — *Rumi*
+
+### Quote of the Day (2026-09-04)
+> "Great dreams of great dreamers are always transcended."
+> — *Abdul Kalam*

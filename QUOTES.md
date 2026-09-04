@@ -1405,3 +1405,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-04)
 > "The criterion of action is that todays work should not be deferred till the following day."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-04)
+> "As you start to walk on the way, the way appears."
+> — *Rumi*

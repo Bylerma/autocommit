@@ -1417,3 +1417,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-04)
 > "A man who views the world the same at fifty as he did at twenty has wasted thirty years of his life."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-04)
+> "I don't count my situps. I only start counting once it starts hurting."
+> — *Muhammad Ali*

@@ -1401,3 +1401,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-04)
 > "If a sheep dies on the shore of the Euphrates I fear lest Allah ask me to account for it on the Day of Resurrection."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-04)
+> "The criterion of action is that todays work should not be deferred till the following day."
+> — *Umar ibn Al-Khattāb (R.A)*

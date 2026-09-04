@@ -1397,3 +1397,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-03)
 > "He who keeps his own counsel keeps his affairs in his own hands."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-04)
+> "If a sheep dies on the shore of the Euphrates I fear lest Allah ask me to account for it on the Day of Resurrection."
+> — *Umar ibn Al-Khattāb (R.A)*

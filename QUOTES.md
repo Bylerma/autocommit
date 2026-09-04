@@ -1413,3 +1413,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-04)
 > "Great dreams of great dreamers are always transcended."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-04)
+> "A man who views the world the same at fifty as he did at twenty has wasted thirty years of his life."
+> — *Muhammad Ali*

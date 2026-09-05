@@ -1441,3 +1441,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-05)
 > "When I am silent, I have thunder hidden inside."
 > — *Rumi*
+
+### Quote of the Day (2026-09-05)
+> "The days of life pass away like clouds, so do good while you are alive."
+> — *Ali ibn Abi Talib (R.A)*

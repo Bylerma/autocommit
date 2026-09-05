@@ -1425,3 +1425,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-05)
 > "Try as much as you can to mention death. For if you were having hard times in your life, then it would give you more hope and would ease things for you. And if you were having abundant affluence of living in luxury, then it would make it less luxurious."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-05)
+> "All birds find shelter during a rain. But eagle avoids rain by flying above the clouds. Problems are common, but attitude makes the difference."
+> — *Abdul Kalam*

@@ -1429,3 +1429,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-05)
 > "All birds find shelter during a rain. But eagle avoids rain by flying above the clouds. Problems are common, but attitude makes the difference."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-05)
+> "The Time Is Always Right To Do What Is Right."
+> — *Martin Luther King  Jr.*

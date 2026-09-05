@@ -1437,3 +1437,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-05)
 > "Convictions Are More Dangerous Foes Of Truth Than Lies."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-09-05)
+> "When I am silent, I have thunder hidden inside."
+> — *Rumi*

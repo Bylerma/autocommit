@@ -1433,3 +1433,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-05)
 > "The Time Is Always Right To Do What Is Right."
 > — *Martin Luther King  Jr.*
+
+### Quote of the Day (2026-09-05)
+> "Convictions Are More Dangerous Foes Of Truth Than Lies."
+> — *Friedrich Nietzsche*

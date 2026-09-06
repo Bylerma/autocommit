@@ -1445,3 +1445,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-05)
 > "The days of life pass away like clouds, so do good while you are alive."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-06)
+> "Once the Choice is Made, Do Not Look Back, Do Not Second-Guess Your Decisions."
+> — *Muhammad Ali*

@@ -1465,3 +1465,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-06)
 > "Acquire knowledge before you become leaders and pride prevents you from learning and you live in ignorance."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-06)
+> "Democracy Is When The Indigent, And Not The Men Of Property, Are The Rulers."
+> — *Aristotle*

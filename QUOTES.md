@@ -1481,3 +1481,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-07)
 > "I shook up the world."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-07)
+> "When a nation is surrounded by weaponized nations, she has to equip herself."
+> — *Abdul Kalam*

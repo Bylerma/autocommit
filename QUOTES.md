@@ -1485,3 +1485,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-07)
 > "When a nation is surrounded by weaponized nations, she has to equip herself."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-07)
+> "When a man says I cannot, he has made a suggestion to himself. He has weakened his power of accomplishing that which otherwise would have been accomplished."
+> — *Muhammad Ali*

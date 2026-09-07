@@ -1477,3 +1477,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-07)
 > "The highest person is he who is of most use to humankind."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-07)
+> "I shook up the world."
+> — *Muhammad Ali*

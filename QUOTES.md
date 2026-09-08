@@ -1513,3 +1513,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-08)
 > "I'm the most recognized and loved man that ever lived cuz there weren't no satellites when Jesus and Moses were around, so people far away in the villages didn't know about them."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-08)
+> "I was the first one in the gym, and the last one to leave."
+> — *Muhammad Ali*

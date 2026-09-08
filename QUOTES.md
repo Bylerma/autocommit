@@ -1497,3 +1497,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-08)
 > "To make one good action succeed another, is the perfection of goodness."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-08)
+> "Silence is the best reply to a fool."
+> — *Ali ibn Abi Talib (R.A)*

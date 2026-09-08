@@ -1493,3 +1493,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-07)
 > "No Part Of The Education Of A Politician Is More Indispensable Than The Fighting Of Elections."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-09-08)
+> "To make one good action succeed another, is the perfection of goodness."
+> — *Ali ibn Abi Talib (R.A)*

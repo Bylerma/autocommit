@@ -1505,3 +1505,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-08)
 > "Always consider your intellect to be lacking; otherwise too much faith in it surely leads to error."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-08)
+> "Be like a tree and let the dead leaves drop."
+> — *Rumi*

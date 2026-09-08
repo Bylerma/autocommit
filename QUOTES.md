@@ -1501,3 +1501,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-08)
 > "Silence is the best reply to a fool."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-08)
+> "Always consider your intellect to be lacking; otherwise too much faith in it surely leads to error."
+> — *Ali ibn Abi Talib (R.A)*

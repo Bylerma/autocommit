@@ -1509,3 +1509,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-08)
 > "Be like a tree and let the dead leaves drop."
 > — *Rumi*
+
+### Quote of the Day (2026-09-08)
+> "I'm the most recognized and loved man that ever lived cuz there weren't no satellites when Jesus and Moses were around, so people far away in the villages didn't know about them."
+> — *Muhammad Ali*

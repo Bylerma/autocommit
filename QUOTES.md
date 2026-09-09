@@ -1525,3 +1525,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-09)
 > "My way of joking is to tell the truth. That's the funniest joke in the world."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-09)
+> "Where The Spirit Does Not Work With The Hand, There Is No Art."
+> — *Leonardo Da Vinci*

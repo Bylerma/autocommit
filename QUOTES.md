@@ -1521,3 +1521,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-09)
 > "Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."
 > — *Aristotle*
+
+### Quote of the Day (2026-09-09)
+> "My way of joking is to tell the truth. That's the funniest joke in the world."
+> — *Muhammad Ali*

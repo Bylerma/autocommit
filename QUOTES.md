@@ -1517,3 +1517,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-08)
 > "I was the first one in the gym, and the last one to leave."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-09)
+> "Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."
+> — *Aristotle*

@@ -1533,3 +1533,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-09)
 > "I Just Feel Happy To Be In America, Like I Said, It'S The Most Beautiful Country In The World."
 > — *Ahmed Ali*
+
+### Quote of the Day (2026-09-09)
+> "The people who abandon Jihad fall a victim to humility and degradation."
+> — *Abu Bakr (R.A)*

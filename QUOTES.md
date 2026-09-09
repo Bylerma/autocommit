@@ -1537,3 +1537,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-09)
 > "The people who abandon Jihad fall a victim to humility and degradation."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-09-09)
+> "Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?'"
+> — *Martin Luther King  Jr.*

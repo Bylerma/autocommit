@@ -1557,3 +1557,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-10)
 > "It's hard to be humble when you're as great as I am."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-10)
+> "Success is not achieved by winning all the time. Real success comes when we rise after we fall. Some mountains are higher than others. Some roads steeper than the next. There are hardships and setbacks but you cannot let them stop you. Even on the steepest road you must not turn back."
+> — *Muhammad Ali*

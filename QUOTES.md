@@ -1541,3 +1541,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-09)
 > "Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?'"
 > — *Martin Luther King  Jr.*
+
+### Quote of the Day (2026-09-10)
+> "To be a great champion you must believe you are the best. If you're not, pretend you are."
+> — *Muhammad Ali*

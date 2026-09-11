@@ -1565,3 +1565,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-10)
 > "All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-11)
+> "Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All."
+> — *Robin Williams*

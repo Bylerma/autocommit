@@ -1577,3 +1577,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-11)
 > "Allah is the Greatest. I'm just the greatest boxer."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-11)
+> "Let Every Eye Negotiate For Itself And Trust No Agent."
+> — *William Shakespeare*

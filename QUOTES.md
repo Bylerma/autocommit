@@ -1573,3 +1573,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-11)
 > "Abstinence from sins is better than seeking help afterwards."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-11)
+> "Allah is the Greatest. I'm just the greatest boxer."
+> — *Muhammad Ali*

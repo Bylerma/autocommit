@@ -1569,3 +1569,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-11)
 > "Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All."
 > — *Robin Williams*
+
+### Quote of the Day (2026-09-11)
+> "Abstinence from sins is better than seeking help afterwards."
+> — *Ali ibn Abi Talib (R.A)*

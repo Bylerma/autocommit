@@ -1605,3 +1605,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-12)
 > "Where The Spirit Does Not Work With The Hand, There Is No Art."
 > — *Leonardo Da Vinci*
+
+### Quote of the Day (2026-09-12)
+> "I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody."
+> — *Bill Cosby*

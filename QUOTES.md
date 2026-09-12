@@ -1589,3 +1589,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-11)
 > "I'm the most recognized and loved man that ever lived cuz there weren't no satellites when Jesus and Moses were around, so people far away in the villages didn't know about them."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-12)
+> "There is no nobility with bad manners."
+> — *Ali ibn Abi Talib (R.A)*

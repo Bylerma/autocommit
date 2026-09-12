@@ -1601,3 +1601,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-12)
 > "Your worst enemy is hiding within yourself, and that enemy is your nafs or false ego."
 > — *Rumi*
+
+### Quote of the Day (2026-09-12)
+> "Where The Spirit Does Not Work With The Hand, There Is No Art."
+> — *Leonardo Da Vinci*

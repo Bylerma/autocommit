@@ -1597,3 +1597,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-12)
 > "George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie."
 > — *Mark Twain*
+
+### Quote of the Day (2026-09-12)
+> "Your worst enemy is hiding within yourself, and that enemy is your nafs or false ego."
+> — *Rumi*

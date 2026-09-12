@@ -1609,3 +1609,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-12)
 > "I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody."
 > — *Bill Cosby*
+
+### Quote of the Day (2026-09-12)
+> "There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you?"
+> — *Rumi*

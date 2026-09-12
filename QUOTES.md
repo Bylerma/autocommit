@@ -1593,3 +1593,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-12)
 > "There is no nobility with bad manners."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-12)
+> "George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie."
+> — *Mark Twain*

@@ -1617,3 +1617,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-13)
 > "If all you can do is crawl, start crawling."
 > — *Rumi*
+
+### Quote of the Day (2026-09-13)
+> "The Best Way To Get A Bad Law Repealed Is To Enforce It Strictly."
+> — *Abraham Lincoln*

@@ -1625,3 +1625,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-13)
 > "If You Can'T Make It Good, At Least Make It Look Good."
 > — *Bill Gates*
+
+### Quote of the Day (2026-09-13)
+> "Solitude Is Better Than The Society Of Evil Persons."
+> — *Abu Bakr*

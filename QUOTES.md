@@ -1613,3 +1613,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-12)
 > "There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you?"
 > — *Rumi*
+
+### Quote of the Day (2026-09-13)
+> "If all you can do is crawl, start crawling."
+> — *Rumi*

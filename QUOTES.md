@@ -1629,3 +1629,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-13)
 > "Solitude Is Better Than The Society Of Evil Persons."
 > — *Abu Bakr*
+
+### Quote of the Day (2026-09-13)
+> "If You Are Out To Describe The Truth, Leave Elegance To The Tailor."
+> — *Albert Einstein*

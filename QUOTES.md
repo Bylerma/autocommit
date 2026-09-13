@@ -1633,3 +1633,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-13)
 > "If You Are Out To Describe The Truth, Leave Elegance To The Tailor."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-09-13)
+> "Building capacity dissolves differences. It irons out inequalities."
+> — *Abdul Kalam*

@@ -1641,3 +1641,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-14)
 > "Thinking is the capital, Enterprise is the way, Hard Work is the solution."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-14)
+> "Failure Is Not The Opposite Of Success; It'S Part Of Success."
+> — *Arianna Huffington*

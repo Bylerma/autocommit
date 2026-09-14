@@ -1645,3 +1645,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-14)
 > "Failure Is Not The Opposite Of Success; It'S Part Of Success."
 > — *Arianna Huffington*
+
+### Quote of the Day (2026-09-14)
+> "Get up sucker and fight. Get up and fight."
+> — *Muhammad Ali*

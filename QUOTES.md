@@ -1649,3 +1649,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-14)
 > "Get up sucker and fight. Get up and fight."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-14)
+> "When A Man Is Out Of Sight, It Is Not Too Long Before He Is Out Of Mind."
+> — *Victor Hugo*

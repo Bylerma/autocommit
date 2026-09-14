@@ -1637,3 +1637,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-13)
 > "Building capacity dissolves differences. It irons out inequalities."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-14)
+> "Thinking is the capital, Enterprise is the way, Hard Work is the solution."
+> — *Abdul Kalam*

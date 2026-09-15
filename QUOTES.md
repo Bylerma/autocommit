@@ -1665,3 +1665,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-15)
 > "Everyone's life is a page in the human history irrespective of the position he or she holds or the work he or she performs."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-15)
+> "A Prisoner Of War Is A Man Who Tries To Kill You And Fails, And Then Asks You Not To Kill Him."
+> — *Winston Churchill*

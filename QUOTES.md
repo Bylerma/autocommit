@@ -1673,3 +1673,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-15)
 > "Should I Kill Myself, Or Have A Cup Of Coffee?"
 > — *Albert Camus*
+
+### Quote of the Day (2026-09-15)
+> "Without your involvement you can't succeed. With your involvement you can't fail."
+> — *Abdul Kalam*

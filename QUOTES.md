@@ -1681,3 +1681,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-15)
 > "The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not."
 > — *C. S. Lewis*
+
+### Quote of the Day (2026-09-15)
+> "Everyone Should Be Respected As An Individual, But No One Idolized."
+> — *Albert Einstein*

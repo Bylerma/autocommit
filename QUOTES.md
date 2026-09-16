@@ -1697,3 +1697,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-16)
 > "That all you got, George?"
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-16)
+> "When you do not know of a thing say so plainly."
+> — *Umar ibn Al-Khattāb (R.A)*

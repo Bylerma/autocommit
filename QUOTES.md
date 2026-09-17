@@ -1713,3 +1713,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-17)
 > "Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow."
 > — *Mark Twain*
+
+### Quote of the Day (2026-09-17)
+> "Indifference And Neglect Often Do Much More Damage Than Outright Dislike."
+> — *J. K. Rowling*

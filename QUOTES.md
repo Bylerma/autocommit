@@ -1729,3 +1729,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-17)
 > "Live amongst people in such a manner that if you die they weep over you and if you are alive they crave for your company."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-17)
+> "He That Rises Late Must Trot All Day."
+> — *Benjamin Franklin*

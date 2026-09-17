@@ -1709,3 +1709,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-16)
 > "Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-09-17)
+> "Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow."
+> — *Mark Twain*

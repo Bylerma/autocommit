@@ -1725,3 +1725,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-17)
 > "The Service you do for others is the rent you pay for your room here on Earth."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-17)
+> "Live amongst people in such a manner that if you die they weep over you and if you are alive they crave for your company."
+> — *Ali ibn Abi Talib (R.A)*

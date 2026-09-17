@@ -1717,3 +1717,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-17)
 > "Indifference And Neglect Often Do Much More Damage Than Outright Dislike."
 > — *J. K. Rowling*
+
+### Quote of the Day (2026-09-17)
+> "Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life."
+> — *Abdul Kalam*

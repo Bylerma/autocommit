@@ -1721,3 +1721,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-17)
 > "Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-17)
+> "The Service you do for others is the rent you pay for your room here on Earth."
+> — *Muhammad Ali*

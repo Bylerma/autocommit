@@ -1737,3 +1737,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-18)
 > "Intense Love Does Not Measure, It Just Gives."
 > — *Mother Teresa*
+
+### Quote of the Day (2026-09-18)
+> "I Will Carry On Writing, To Be Sure. But I Don'T Know If I Would Want To Publish Again After Harry Potter."
+> — *J. K. Rowling*

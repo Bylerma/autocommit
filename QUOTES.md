@@ -1753,3 +1753,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-18)
 > "He Who Avoids Complaint Invites Happiness."
 > — *Abu Bakr*
+
+### Quote of the Day (2026-09-18)
+> "An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last."
+> — *Winston Churchill*

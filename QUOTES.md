@@ -1741,3 +1741,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-18)
 > "I Will Carry On Writing, To Be Sure. But I Don'T Know If I Would Want To Publish Again After Harry Potter."
 > — *J. K. Rowling*
+
+### Quote of the Day (2026-09-18)
+> "As long as you are pure of heart, you speak the truth."
+> — *Umar ibn Al-Khattāb (R.A)*

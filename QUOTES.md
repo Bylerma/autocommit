@@ -1733,3 +1733,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-17)
 > "He That Rises Late Must Trot All Day."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-09-18)
+> "Intense Love Does Not Measure, It Just Gives."
+> — *Mother Teresa*

@@ -1745,3 +1745,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-18)
 > "As long as you are pure of heart, you speak the truth."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-18)
+> "It will be a killer, and a chiller, and a thriller, when I get the gorilla in Manila."
+> — *Muhammad Ali*

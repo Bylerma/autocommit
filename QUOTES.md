@@ -1765,3 +1765,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-19)
 > "Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-19)
+> "People Always Ask Me, 'Were You Funny As A Child?' Well, No, I Was An Accountant."
+> — *Ellen DeGeneres*

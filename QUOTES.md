@@ -1773,3 +1773,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-19)
 > "When you seek advice, do not withhold any facts from the person whose advice you seek."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-09-19)
+> "We Shall Require A Substantially New Manner Of Thinking If Mankind Is To Survive."
+> — *Albert Einstein*

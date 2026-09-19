@@ -1757,3 +1757,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-18)
 > "An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-09-19)
+> "Many A Good Hanging Prevents A Bad Marriage."
+> — *William Shakespeare*

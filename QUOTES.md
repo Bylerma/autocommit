@@ -1769,3 +1769,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-19)
 > "People Always Ask Me, 'Were You Funny As A Child?' Well, No, I Was An Accountant."
 > — *Ellen DeGeneres*
+
+### Quote of the Day (2026-09-19)
+> "When you seek advice, do not withhold any facts from the person whose advice you seek."
+> — *Abu Bakr (R.A)*

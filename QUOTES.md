@@ -1797,3 +1797,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-20)
 > "I Never Gave Up On Country Music Because I Knew What I Was Doing Was Not That Bad."
 > — *Willie Nelson*
+
+### Quote of the Day (2026-09-20)
+> "Failure Is Not The Opposite Of Success; It'S Part Of Success."
+> — *Arianna Huffington*

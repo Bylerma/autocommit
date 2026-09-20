@@ -1781,3 +1781,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-19)
 > "With God In Charge, I Believe Everything Will Work Out For The Best In The End."
 > — *Henry Ford*
+
+### Quote of the Day (2026-09-20)
+> "No wealth like education and no poverty like ignorance."
+> — *Ali ibn Abi Talib (R.A)*

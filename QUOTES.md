@@ -1789,3 +1789,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-20)
 > "Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?"
 > — *William Shakespeare*
+
+### Quote of the Day (2026-09-20)
+> "Take account of your deeds before they are taken account of."
+> — *Umar ibn Al-Khattāb (R.A)*

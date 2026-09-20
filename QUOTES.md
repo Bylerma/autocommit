@@ -1785,3 +1785,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-20)
 > "No wealth like education and no poverty like ignorance."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-20)
+> "Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?"
+> — *William Shakespeare*

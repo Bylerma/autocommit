@@ -1813,3 +1813,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-21)
 > "Your Successes And Happiness Are Forgiven You Only If You Generously Consent To Share Them."
 > — *Albert Camus*
+
+### Quote of the Day (2026-09-21)
+> "Force Always Attracts Men Of Low Morality."
+> — *Albert Einstein*

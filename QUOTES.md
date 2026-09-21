@@ -1805,3 +1805,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-20)
 > "I Like My Wine Like My Women - Ready To Pass Out."
 > — *Robin Williams*
+
+### Quote of the Day (2026-09-21)
+> "The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders."
+> — *Abdul Kalam*

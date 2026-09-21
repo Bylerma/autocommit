@@ -1821,3 +1821,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-21)
 > "Success is when your signature becomes an autograph."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-21)
+> "Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it."
+> — *Muhammad Ali*

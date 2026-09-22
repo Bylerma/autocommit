@@ -1849,3 +1849,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-22)
 > "I Hear And I Forget. I See And I Remember. I Do And I Understand."
 > — *Confucius*
+
+### Quote of the Day (2026-09-22)
+> "Islam will be destroyed by the mistakes of scholars, the arguments of the hypocrites who misinterpret the Qur'an to support their views and misleading rulers."
+> — *Umar ibn Al-Khattāb (R.A)*

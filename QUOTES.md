@@ -1829,3 +1829,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-21)
 > "Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-22)
+> "As you start to walk on the way, the way appears."
+> — *Rumi*

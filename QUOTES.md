@@ -1837,3 +1837,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-22)
 > "Civilization Is The Limitless Multiplication Of Unnecessary Necessities."
 > — *Mark Twain*
+
+### Quote of the Day (2026-09-22)
+> "I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith."
+> — *Umar ibn Al-Khattāb (R.A)*

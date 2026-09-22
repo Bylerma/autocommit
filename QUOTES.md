@@ -1841,3 +1841,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-22)
 > "I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-22)
+> "To Hell With Circumstances; I Create Opportunities."
+> — *Bruce Lee*

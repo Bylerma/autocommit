@@ -1853,3 +1853,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-22)
 > "Islam will be destroyed by the mistakes of scholars, the arguments of the hypocrites who misinterpret the Qur'an to support their views and misleading rulers."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-23)
+> "I Want To Know All Gods Thoughts; All The Rest Are Just Details."
+> — *Albert Einstein*

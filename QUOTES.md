@@ -1865,3 +1865,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-23)
 > "God Does Not Play Dice."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-09-23)
+> "You Can Tell Whether A Man Is Clever By His Answers. You Can Tell Whether A Man Is Wise By His Questions."
+> — *Naguib Mahfouz*

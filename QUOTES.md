@@ -1873,3 +1873,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-23)
 > "Cursed is the man who dies, but the evil done by him survives."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-09-23)
+> "I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen."
+> — *Ernest Hemingway*

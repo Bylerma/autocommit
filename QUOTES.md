@@ -1869,3 +1869,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-23)
 > "You Can Tell Whether A Man Is Clever By His Answers. You Can Tell Whether A Man Is Wise By His Questions."
 > — *Naguib Mahfouz*
+
+### Quote of the Day (2026-09-23)
+> "Cursed is the man who dies, but the evil done by him survives."
+> — *Abu Bakr (R.A)*

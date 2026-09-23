@@ -1857,3 +1857,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-23)
 > "I Want To Know All Gods Thoughts; All The Rest Are Just Details."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-09-23)
+> "Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing."
+> — *Rumi*

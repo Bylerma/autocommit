@@ -1885,3 +1885,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-24)
 > "Life Loves To Be Taken By The Lapel And Told: "I'M With You Kid. Let'S Go.""
 > — *Maya Angelou*
+
+### Quote of the Day (2026-09-24)
+> "Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation."
+> — *Rumi*

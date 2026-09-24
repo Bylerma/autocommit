@@ -1893,3 +1893,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-24)
 > "A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-09-24)
+> "Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."
+> — *Aristotle*

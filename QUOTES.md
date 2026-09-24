@@ -1877,3 +1877,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-23)
 > "I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen."
 > — *Ernest Hemingway*
+
+### Quote of the Day (2026-09-24)
+> "You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win."
+> — *Zig Ziglar*

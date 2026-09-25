@@ -1917,3 +1917,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-25)
 > "Associating with the wise and the knowledgeable people adds to the prestige of a person."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-25)
+> "Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action."
+> — *Mother Teresa*

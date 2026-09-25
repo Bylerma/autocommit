@@ -1921,3 +1921,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-25)
 > "Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action."
 > — *Mother Teresa*
+
+### Quote of the Day (2026-09-25)
+> "I Used To Think The Worst Thing In Life Was To End Up All Alone. It'S Not. The Worst Thing In Life Is To End Up With People Who Make You Feel All Alone."
+> — *Robin Williams*

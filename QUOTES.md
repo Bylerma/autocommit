@@ -1913,3 +1913,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-25)
 > "Failure Is Simply The Opportunity To Begin Again, This Time More Intelligently."
 > — *Henry Ford*
+
+### Quote of the Day (2026-09-25)
+> "Associating with the wise and the knowledgeable people adds to the prestige of a person."
+> — *Ali ibn Abi Talib (R.A)*

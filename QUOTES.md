@@ -1905,3 +1905,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-25)
 > "I was saying “I'm the greatest” long before I believed it."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-25)
+> "Things Won Are Done, Joy'S Soul Lies In The Doing."
+> — *William Shakespeare*

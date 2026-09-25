@@ -1901,3 +1901,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-24)
 > "The Law Is Reason, Free From Passion."
 > — *Aristotle*
+
+### Quote of the Day (2026-09-25)
+> "I was saying “I'm the greatest” long before I believed it."
+> — *Muhammad Ali*

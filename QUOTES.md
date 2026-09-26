@@ -1925,3 +1925,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-25)
 > "I Used To Think The Worst Thing In Life Was To End Up All Alone. It'S Not. The Worst Thing In Life Is To End Up With People Who Make You Feel All Alone."
 > — *Robin Williams*
+
+### Quote of the Day (2026-09-26)
+> "Seek the wisdom that will untie your knot. Seek the path that demands your whole being."
+> — *Rumi*

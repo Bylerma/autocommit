@@ -1929,3 +1929,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-26)
 > "Seek the wisdom that will untie your knot. Seek the path that demands your whole being."
 > — *Rumi*
+
+### Quote of the Day (2026-09-26)
+> "Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."
+> — *Friedrich Nietzsche*

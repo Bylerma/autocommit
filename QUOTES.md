@@ -1937,3 +1937,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-26)
 > "He who sleeps without offering the night prayer, may he never enjoy a sound sleep."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-09-26)
+> "There Is More Treasure In Books Than In All The Pirate'S Loot On Treasure Island."
+> — *Walt Disney*

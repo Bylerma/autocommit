@@ -1933,3 +1933,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-26)
 > "Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-09-26)
+> "He who sleeps without offering the night prayer, may he never enjoy a sound sleep."
+> — *Umar ibn Al-Khattāb (R.A)*

@@ -1953,3 +1953,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-27)
 > "This life is not real. I conquered the world and it did not bring me satisfaction."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-09-27)
+> "Bear sorrows and calamities patiently, otherwise you will never be happy."
+> — *Ali ibn Abi Talib (R.A)*

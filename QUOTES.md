@@ -1965,3 +1965,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-27)
 > "Patience to faith is like the head to the body. The person who has no patience has not faith."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-27)
+> "Do we not realize that self respect comes with self reliance?"
+> — *Abdul Kalam*

@@ -1957,3 +1957,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-27)
 > "Bear sorrows and calamities patiently, otherwise you will never be happy."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-09-27)
+> "He who guards his secrets retains control in his own hands."
+> — *Ali ibn Abi Talib (R.A)*

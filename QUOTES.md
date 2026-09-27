@@ -1969,3 +1969,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-27)
 > "Do we not realize that self respect comes with self reliance?"
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-09-27)
+> "Man Is Still The Most Extraordinary Computer Of All."
+> — *John F. Kennedy*

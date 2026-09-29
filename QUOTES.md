@@ -2001,3 +2001,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-29)
 > "These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-09-29)
+> "The Only True Wisdom Is In Knowing You Know Nothing."
+> — *Socrates*

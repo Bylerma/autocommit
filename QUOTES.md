@@ -1993,3 +1993,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-29)
 > "The Greatest Discovery Of All Time Is That A Person Can Change His Future By Merely Changing His Attitude."
 > — *Oprah Winfrey*
+
+### Quote of the Day (2026-09-29)
+> "Once the seed of faith takes root, it cannot be blown away, even by the strongest wind - Now that's a blessing."
+> — *Rumi*

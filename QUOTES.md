@@ -2017,3 +2017,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-29)
 > "You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On."
 > — *Oprah Winfrey*
+
+### Quote of the Day (2026-09-29)
+> "Death is teacher enough, true faith is wealth enough, and worship is action enough."
+> — *Umar ibn Al-Khattāb (R.A)*

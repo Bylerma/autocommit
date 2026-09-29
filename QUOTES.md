@@ -2005,3 +2005,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-29)
 > "The Only True Wisdom Is In Knowing You Know Nothing."
 > — *Socrates*
+
+### Quote of the Day (2026-09-29)
+> "God gave me Parkinson's syndrome to show me I'm not 'The Greatest' - he is."
+> — *Muhammad Ali*

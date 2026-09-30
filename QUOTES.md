@@ -2025,3 +2025,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-09-30)
 > "When You Have Really Exhausted An Experience You Always Reverence And Love It."
 > — *Albert Camus*
+
+### Quote of the Day (2026-09-30)
+> "Uneasy Lies The Head That Wears A Crown."
+> — *William Shakespeare*

@@ -2049,3 +2049,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-01)
 > "You Cannot Create Experience. You Must Undergo It."
 > — *Albert Camus*
+
+### Quote of the Day (2026-10-01)
+> "The Only Way To Do News On Television Is Not To Be Terrified Of It."
+> — *David Brinkley*

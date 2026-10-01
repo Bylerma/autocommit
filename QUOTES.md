@@ -2041,3 +2041,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-01)
 > "Do You Think God Gets Stoned? I Think So... Look At The Platypus."
 > — *Robin Williams*
+
+### Quote of the Day (2026-10-01)
+> "Look for the answer inside your question."
+> — *Rumi*

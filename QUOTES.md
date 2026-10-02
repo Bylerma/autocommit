@@ -2057,3 +2057,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-01)
 > "The one who has no control over his desires has no control over his mind."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-02)
+> "The Only Way To Do News On Television Is Not To Be Terrified Of It."
+> — *David Brinkley*

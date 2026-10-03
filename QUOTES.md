@@ -2113,3 +2113,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-03)
 > "To maintain nice relation with the people is half of intelligence, nice questioning is half of knowledge, and nice domestic arrangements is half of the management of livelihood."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-03)
+> "Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm."
+> — *Winston Churchill*

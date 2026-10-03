@@ -2085,3 +2085,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-03)
 > "Do The Right Thing. It Will Gratify Some People And Astonish The Rest."
 > — *Mark Twain*
+
+### Quote of the Day (2026-10-03)
+> "I Want You To Be Concerned About Your Next Door Neighbor. Do You Know Your Next Door Neighbor?"
+> — *Mother Teresa*

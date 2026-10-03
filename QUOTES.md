@@ -2105,3 +2105,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-03)
 > "He who is greedy is disgraced; he who discloses his hardship will always be humiliated; he who has no control over his tongue will often have to face discomfort."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-03)
+> "I am not this hair. I am not this skin. I am the soul that lives within."
+> — *Rumi*

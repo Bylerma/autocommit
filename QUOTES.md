@@ -2109,3 +2109,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-03)
 > "I am not this hair. I am not this skin. I am the soul that lives within."
 > — *Rumi*
+
+### Quote of the Day (2026-10-03)
+> "To maintain nice relation with the people is half of intelligence, nice questioning is half of knowledge, and nice domestic arrangements is half of the management of livelihood."
+> — *Ali ibn Abi Talib (R.A)*

@@ -2097,3 +2097,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-03)
 > "A Man Wrapped Up In Himself Makes A Very Small Bundle."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-10-03)
+> "Experience Does Not Err. Only Your Judgments Err By Expecting From Her What Is Not In Her Power."
+> — *Leonardo Da Vinci*

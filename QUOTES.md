@@ -2101,3 +2101,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-03)
 > "Experience Does Not Err. Only Your Judgments Err By Expecting From Her What Is Not In Her Power."
 > — *Leonardo Da Vinci*
+
+### Quote of the Day (2026-10-03)
+> "He who is greedy is disgraced; he who discloses his hardship will always be humiliated; he who has no control over his tongue will often have to face discomfort."
+> — *Ali ibn Abi Talib (R.A)*

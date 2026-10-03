@@ -2081,3 +2081,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-02)
 > "It Is Most Pleasant To Commit A Just Action Which Is Disagreeable To Someone Whom One Does Not Like."
 > — *Victor Hugo*
+
+### Quote of the Day (2026-10-03)
+> "Do The Right Thing. It Will Gratify Some People And Astonish The Rest."
+> — *Mark Twain*

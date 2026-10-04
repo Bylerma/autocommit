@@ -2121,3 +2121,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-04)
 > "You Can Have No Dominion Greater Or Less Than That Over Yourself."
 > — *Leonardo Da Vinci*
+
+### Quote of the Day (2026-10-04)
+> "The Time Is Always Right To Do What Is Right."
+> — *Martin Luther King  Jr.*

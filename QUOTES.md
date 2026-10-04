@@ -2117,3 +2117,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-03)
 > "Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-10-04)
+> "You Can Have No Dominion Greater Or Less Than That Over Yourself."
+> — *Leonardo Da Vinci*

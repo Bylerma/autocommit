@@ -2125,3 +2125,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-04)
 > "The Time Is Always Right To Do What Is Right."
 > — *Martin Luther King  Jr.*
+
+### Quote of the Day (2026-10-04)
+> "Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination."
+> — *Ali ibn Abi Talib (R.A)*

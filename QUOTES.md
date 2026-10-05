@@ -2145,3 +2145,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-05)
 > "Allah is the Greatest. I'm just the greatest boxer."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-05)
+> "Man needs his difficulties because they are necessary to enjoy success."
+> — *Abdul Kalam*

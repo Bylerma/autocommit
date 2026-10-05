@@ -2141,3 +2141,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-04)
 > "When In Doubt, Go For The Dick Joke."
 > — *Robin Williams*
+
+### Quote of the Day (2026-10-05)
+> "Allah is the Greatest. I'm just the greatest boxer."
+> — *Muhammad Ali*

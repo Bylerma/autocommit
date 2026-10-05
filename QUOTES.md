@@ -2149,3 +2149,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-05)
 > "Man needs his difficulties because they are necessary to enjoy success."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-05)
+> "Many A Good Hanging Prevents A Bad Marriage."
+> — *William Shakespeare*

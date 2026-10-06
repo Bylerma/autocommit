@@ -2173,3 +2173,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-06)
 > "The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-06)
+> "God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers."
+> — *Abdul Kalam*

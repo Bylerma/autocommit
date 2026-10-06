@@ -2153,3 +2153,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-05)
 > "Many A Good Hanging Prevents A Bad Marriage."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-10-06)
+> "When wisdom reaches the acme of perfection, it will suppress the vicious instincts and injurious desires."
+> — *Ali ibn Abi Talib (R.A)*

@@ -2169,3 +2169,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-06)
 > "I Gave In, And Admitted That God Was God."
 > — *C. S. Lewis*
+
+### Quote of the Day (2026-10-06)
+> "The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders."
+> — *Abdul Kalam*

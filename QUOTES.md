@@ -2161,3 +2161,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-06)
 > "One who thinks and reflects develops his foresight and vision."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-06)
+> "There is no Love greater than Love with no object. For then you, yourself, have become love, itself."
+> — *Rumi*

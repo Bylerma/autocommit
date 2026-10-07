@@ -2177,3 +2177,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-06)
 > "God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-07)
+> "Nothing hurts a good soul and kind heart more than to live amongst people who can't understand it."
+> — *Ali ibn Abi Talib (R.A)*

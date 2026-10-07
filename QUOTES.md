@@ -2197,3 +2197,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-07)
 > "Paintings Have A Life Of Their Own That Derives From The Painter'S Soul."
 > — *Vincent Van Gogh*
+
+### Quote of the Day (2026-10-07)
+> "I wonder at a man who loses hope of salvation when the door of repentance is open for him."
+> — *Ali ibn Abi Talib (R.A)*

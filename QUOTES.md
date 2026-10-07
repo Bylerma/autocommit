@@ -2189,3 +2189,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-07)
 > "What you're thinking is what you're becoming."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-07)
+> "I am the greatest."
+> — *Muhammad Ali*

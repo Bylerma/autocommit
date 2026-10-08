@@ -2217,3 +2217,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-08)
 > "No One Has Ever Become Poor By Giving."
 > — *Anne Frank*
+
+### Quote of the Day (2026-10-08)
+> "All The Great Things Are Simple, And Many Can Be Expressed In A Single Word: Freedom, Justice, Honor, Duty, Mercy, Hope."
+> — *Winston Churchill*

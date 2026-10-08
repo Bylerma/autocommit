@@ -2221,3 +2221,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-08)
 > "All The Great Things Are Simple, And Many Can Be Expressed In A Single Word: Freedom, Justice, Honor, Duty, Mercy, Hope."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-10-08)
+> "Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side."
+> — *Zig Ziglar*

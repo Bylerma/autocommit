@@ -2201,3 +2201,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-07)
 > "I wonder at a man who loses hope of salvation when the door of repentance is open for him."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-08)
+> "Thy lot or portion of life is seeking after thee; therefore be at rest from seeking after it."
+> — *Ali ibn Abi Talib (R.A)*

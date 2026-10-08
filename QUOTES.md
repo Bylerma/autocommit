@@ -2209,3 +2209,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-08)
 > "The worst man is the one who sees himself as the best."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-08)
+> "That's okay, I'm still the Greatest."
+> — *Muhammad Ali*

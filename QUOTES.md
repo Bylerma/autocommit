@@ -2205,3 +2205,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-08)
 > "Thy lot or portion of life is seeking after thee; therefore be at rest from seeking after it."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-08)
+> "The worst man is the one who sees himself as the best."
+> — *Muhammad Ali*

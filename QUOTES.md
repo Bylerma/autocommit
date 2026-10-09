@@ -2237,3 +2237,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-09)
 > "There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-10-09)
+> "The Object Of The Superior Man Is Truth."
+> — *Confucius*

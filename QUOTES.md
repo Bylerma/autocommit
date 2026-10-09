@@ -2229,3 +2229,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-09)
 > "A Good Head And A Good Heart Are Always A Formidable Combination."
 > — *Nelson Mandela*
+
+### Quote of the Day (2026-10-09)
+> "The Way To Get Started Is To Quit Talking And Begin Doing."
+> — *Walt Disney*

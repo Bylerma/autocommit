@@ -2241,3 +2241,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-09)
 > "The Object Of The Superior Man Is Truth."
 > — *Confucius*
+
+### Quote of the Day (2026-10-09)
+> "If You Are Out To Describe The Truth, Leave Elegance To The Tailor."
+> — *Albert Einstein*

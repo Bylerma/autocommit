@@ -2281,3 +2281,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-10)
 > "In the silence of LOVE you will find the Spark of LIFE."
 > — *Rumi*
+
+### Quote of the Day (2026-10-10)
+> "The only lasting beauty is the beauty of the heart."
+> — *Rumi*

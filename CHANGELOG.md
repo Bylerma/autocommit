@@ -1703,3 +1703,6 @@ All notable changes to this project will be documented in this file.
 
 ## [2026-10-10] - Auto Log
 - 🎨 Cleaned up stale developer console logs
+
+## [2026-10-10] - Auto Log
+- 🔒 Secured api endpoint input validation constraints

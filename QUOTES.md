@@ -2289,3 +2289,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-11)
 > "I Am A Deeply Religious Nonbeliever - This Is A Somewhat New Kind Of Religion."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-10-11)
+> "Do not take someone's silence as his pride, perhaps he is busy fighting with his self."
+> — *Ali ibn Abi Talib (R.A)*

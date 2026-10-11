@@ -2285,3 +2285,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-10)
 > "The only lasting beauty is the beauty of the heart."
 > — *Rumi*
+
+### Quote of the Day (2026-10-11)
+> "I Am A Deeply Religious Nonbeliever - This Is A Somewhat New Kind Of Religion."
+> — *Albert Einstein*

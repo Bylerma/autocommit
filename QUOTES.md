@@ -2309,3 +2309,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-12)
 > "I am the greatest, I said that even before I knew I was."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-12)
+> "Allah Will Help Him Who Moves In The Way Of Allah."
+> — *Abu Bakr*

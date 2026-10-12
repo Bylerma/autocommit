@@ -2305,3 +2305,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-12)
 > "No pork, soda pop, cigarettes, alcohol - ever!"
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-12)
+> "I am the greatest, I said that even before I knew I was."
+> — *Muhammad Ali*

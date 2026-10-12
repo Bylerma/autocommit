@@ -2313,3 +2313,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-12)
 > "Allah Will Help Him Who Moves In The Way Of Allah."
 > — *Abu Bakr*
+
+### Quote of the Day (2026-10-12)
+> "Faith Is Taking The First Step Even When You Don'T See The Whole Staircase."
+> — *Martin Luther King, Jr.*

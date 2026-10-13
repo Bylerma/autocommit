@@ -2341,3 +2341,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-13)
 > "Every Day, Nay Every Moment, Try To Do Some Good Deed."
 > — *Abu Bakr*
+
+### Quote of the Day (2026-10-13)
+> "It'S Hard To Be Humble, When You'Re As Great As I Am."
+> — *Muhammad Ali*

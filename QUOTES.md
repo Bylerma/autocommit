@@ -2325,3 +2325,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-13)
 > "He who avoids complaint invites happiness."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-10-13)
+> "Stubbornness destroys good advice."
+> — *Ali ibn Abi Talib (R.A)*

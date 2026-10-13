@@ -2329,3 +2329,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-13)
 > "Stubbornness destroys good advice."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-13)
+> "It Is No Use Saying, 'We Are Doing Our Best.' You Have Got To Succeed In Doing What Is Necessary."
+> — *Winston Churchill*

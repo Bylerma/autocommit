@@ -2333,3 +2333,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-13)
 > "It Is No Use Saying, 'We Are Doing Our Best.' You Have Got To Succeed In Doing What Is Necessary."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-10-13)
+> "Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great."
+> — *Abdul Kalam*

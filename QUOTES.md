@@ -2337,3 +2337,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-13)
 > "Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-13)
+> "Every Day, Nay Every Moment, Try To Do Some Good Deed."
+> — *Abu Bakr*

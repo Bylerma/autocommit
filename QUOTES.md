@@ -2321,3 +2321,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-12)
 > "To Give Thanks In Solitude Is Enough. Thanksgiving Has Wings And Goes Where It Must Go. Your Prayer Knows Much More About It Than You Do."
 > — *Victor Hugo*
+
+### Quote of the Day (2026-10-13)
+> "He who avoids complaint invites happiness."
+> — *Abu Bakr (R.A)*

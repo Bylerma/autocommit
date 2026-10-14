@@ -2373,3 +2373,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-14)
 > "This Is One Small Step For A Man, One Giant Leap For Mankind."
 > — *Neil Armstrong*
+
+### Quote of the Day (2026-10-14)
+> "Everyone's life is a page in the human history irrespective of the position he or she holds or the work he or she performs."
+> — *Abdul Kalam*

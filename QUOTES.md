@@ -2357,3 +2357,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-13)
 > "When The Solution Is Simple, God Is Answering."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-10-14)
+> "Do Not Impose On Others What You Yourself Do Not Desire."
+> — *Confucius*

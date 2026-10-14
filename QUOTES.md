@@ -2361,3 +2361,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-14)
 > "Do Not Impose On Others What You Yourself Do Not Desire."
 > — *Confucius*
+
+### Quote of the Day (2026-10-14)
+> "Never Do Anything Against Conscience Even If The State Demands It."
+> — *Albert Einstein*

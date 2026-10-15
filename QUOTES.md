@@ -2393,3 +2393,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-15)
 > "Be a lamp, or a lifeboat, or a ladder. Help someone's soul heal. Walk out of your house like a shepherd."
 > — *Rumi*
+
+### Quote of the Day (2026-10-15)
+> "Madness Is Rare In Individuals - But In Groups, Parties, Nations, And Ages It Is The Rule."
+> — *Friedrich Nietzsche*

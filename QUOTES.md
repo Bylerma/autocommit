@@ -2397,3 +2397,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-15)
 > "Madness Is Rare In Individuals - But In Groups, Parties, Nations, And Ages It Is The Rule."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-10-15)
+> "Everything in the universe is within you. Ask all from yourself."
+> — *Rumi*

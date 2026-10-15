@@ -2381,3 +2381,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-14)
 > "I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love."
 > — *Mother Teresa*
+
+### Quote of the Day (2026-10-15)
+> "A Lot Of People Quit Looking For Work As Soon As They Find A Job."
+> — *Zig Ziglar*

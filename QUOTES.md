@@ -2385,3 +2385,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-15)
 > "A Lot Of People Quit Looking For Work As Soon As They Find A Job."
 > — *Zig Ziglar*
+
+### Quote of the Day (2026-10-15)
+> "I don't always know what I'm talking about, but I know I'm right."
+> — *Muhammad Ali*

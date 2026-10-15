@@ -2389,3 +2389,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-15)
 > "I don't always know what I'm talking about, but I know I'm right."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-15)
+> "Be a lamp, or a lifeboat, or a ladder. Help someone's soul heal. Walk out of your house like a shepherd."
+> — *Rumi*

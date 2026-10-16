@@ -2425,3 +2425,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-16)
 > "Darkness Cannot Drive Out Darkness; Only Light Can Do That. Hate Cannot Drive Out Hate; Only Love Can Do That."
 > — *Martin Luther King  Jr.*
+
+### Quote of the Day (2026-10-16)
+> "Brooding over blunders is the biggest blunder."
+> — *Muhammad Ali*

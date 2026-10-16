@@ -2409,3 +2409,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-16)
 > "Total commitment is the common denominator among all successful men and women."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-16)
+> "We Must Be Global Christians With A Global Vision Because Our God Is A Global God."
+> — *John Stott*

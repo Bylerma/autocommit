@@ -2405,3 +2405,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-15)
 > "For me, there are two types of people: the young and the experienced."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-16)
+> "Total commitment is the common denominator among all successful men and women."
+> — *Abdul Kalam*

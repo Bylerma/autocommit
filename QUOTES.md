@@ -2413,3 +2413,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-16)
 > "We Must Be Global Christians With A Global Vision Because Our God Is A Global God."
 > — *John Stott*
+
+### Quote of the Day (2026-10-16)
+> "If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up."
+> — *Hunter S. Thompson*

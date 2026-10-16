@@ -2417,3 +2417,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-16)
 > "If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up."
 > — *Hunter S. Thompson*
+
+### Quote of the Day (2026-10-16)
+> "Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere."
+> — *Carl Sagan*

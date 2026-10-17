@@ -2449,3 +2449,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-17)
 > "Be motivated like the falcon, hunt gloriously. Be magnificent as the leopard, fight to win. Spend less time with nightingales and peacocks. One is all talk, the other only color."
 > — *Rumi*
+
+### Quote of the Day (2026-10-17)
+> "Women are the field that produces our nation. And if you can't protect your women, you can't protect your nation."
+> — *Muhammad Ali*

@@ -2445,3 +2445,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-17)
 > "Hope Is A Waking Dream."
 > — *Aristotle*
+
+### Quote of the Day (2026-10-17)
+> "Be motivated like the falcon, hunt gloriously. Be magnificent as the leopard, fight to win. Spend less time with nightingales and peacocks. One is all talk, the other only color."
+> — *Rumi*

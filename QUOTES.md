@@ -2429,3 +2429,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-16)
 > "Brooding over blunders is the biggest blunder."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-17)
+> "I run on the road long before I dance under the lights."
+> — *Muhammad Ali*

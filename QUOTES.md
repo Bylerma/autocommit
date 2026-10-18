@@ -2465,3 +2465,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-18)
 > "Let Every Eye Negotiate For Itself And Trust No Agent."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-10-18)
+> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow."
+> — *Benjamin Franklin*

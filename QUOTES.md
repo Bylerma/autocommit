@@ -2461,3 +2461,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-18)
 > "Where there is ruin, there is hope for a treasure."
 > — *Rumi*
+
+### Quote of the Day (2026-10-18)
+> "Let Every Eye Negotiate For Itself And Trust No Agent."
+> — *William Shakespeare*

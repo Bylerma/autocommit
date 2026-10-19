@@ -2489,3 +2489,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-19)
 > "The cure for pain is in the pain."
 > — *Rumi*
+
+### Quote of the Day (2026-10-19)
+> "Make Everything As Simple As Possible, But Not Simpler."
+> — *Albert Einstein*

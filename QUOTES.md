@@ -2497,3 +2497,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-19)
 > "A Man Who Is Good Enough To Shed His Blood For The Country Is Good Enough To Be Given A Square Deal Afterwards."
 > — *Theodore Roosevelt*
+
+### Quote of the Day (2026-10-19)
+> "Words are a pretext. It is the inner bond that draws one person to another, not words."
+> — *Rumi*

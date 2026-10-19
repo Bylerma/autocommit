@@ -2477,3 +2477,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-18)
 > "Purify your eyes, and see the pure world. Your life will fill with radiant forms."
 > — *Rumi*
+
+### Quote of the Day (2026-10-19)
+> "Problems are common, but attitude makes the difference."
+> — *Abdul Kalam*

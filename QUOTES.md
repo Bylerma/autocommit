@@ -2493,3 +2493,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-19)
 > "Make Everything As Simple As Possible, But Not Simpler."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-10-19)
+> "A Man Who Is Good Enough To Shed His Blood For The Country Is Good Enough To Be Given A Square Deal Afterwards."
+> — *Theodore Roosevelt*

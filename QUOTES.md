@@ -2485,3 +2485,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-19)
 > "An Explanation Of Cause Is Not A Justification By Reason."
 > — *C. S. Lewis*
+
+### Quote of the Day (2026-10-19)
+> "The cure for pain is in the pain."
+> — *Rumi*

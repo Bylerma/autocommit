@@ -2505,3 +2505,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-20)
 > "It Is Not Best That We Should All Think Alike; It Is A Difference Of Opinion That Makes Horse Races."
 > — *Mark Twain*
+
+### Quote of the Day (2026-10-20)
+> "Virtue Has A Veil, Vice A Mask."
+> — *Victor Hugo*

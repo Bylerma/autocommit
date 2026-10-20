@@ -2513,3 +2513,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-20)
 > "History Is More Or Less Bunk."
 > — *Henry Ford*
+
+### Quote of the Day (2026-10-20)
+> "Why do I want my wife to show off her panties when the wind blows? Horses show their behinds, and cows and mules, not humans."
+> — *Muhammad Ali*

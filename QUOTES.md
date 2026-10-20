@@ -2509,3 +2509,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-20)
 > "Virtue Has A Veil, Vice A Mask."
 > — *Victor Hugo*
+
+### Quote of the Day (2026-10-20)
+> "History Is More Or Less Bunk."
+> — *Henry Ford*

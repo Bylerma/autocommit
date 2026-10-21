@@ -2533,3 +2533,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-21)
 > "Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-21)
+> "There is hope after despair and many suns after darkness."
+> — *Rumi*

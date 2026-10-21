@@ -2525,3 +2525,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-20)
 > "Failure Is Simply The Opportunity To Begin Again, This Time More Intelligently."
 > — *Henry Ford*
+
+### Quote of the Day (2026-10-21)
+> "Because I cannot sleep I make music in the night."
+> — *Rumi*

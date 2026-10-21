@@ -2545,3 +2545,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-21)
 > "I'm the most recognized and loved man that ever lived cuz there weren't no satellites when Jesus and Moses were around, so people far away in the villages didn't know about them."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-21)
+> "The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter."
+> — *Paulo Coelho*

@@ -2561,3 +2561,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-22)
 > "Stay in college, get the knowledge. And stay there until you're through. If they can make penicillin out of moldy bread, they can sure make something out of you. Advice to a young person to continue his education."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-22)
+> "Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions."
+> — *Muhammad Ali*

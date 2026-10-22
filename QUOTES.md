@@ -2553,3 +2553,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-22)
 > "Two things cause people to be destroyed: fear of poverty and seeking superiority through pride."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-22)
+> "Tear off the mask. Your face is glorious."
+> — *Rumi*

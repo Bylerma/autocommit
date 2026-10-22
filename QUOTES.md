@@ -2569,3 +2569,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-22)
 > "O World, try to deceive someone else. Are you trying to tempt me or attract me? No way! I divorce you irrevocably. Your time is short and you are insignificant. Alas! The provision is little, the journey is long and the way is lonely."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-22)
+> "Stay in college, get the knowledge. And stay there until you're through. If they can make penicillin out of moldy bread, they can sure make something out of you. Advice to a young person to continue his education."
+> — *Muhammad Ali*

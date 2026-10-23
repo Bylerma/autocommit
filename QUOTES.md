@@ -2593,3 +2593,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-23)
 > "Think Of All The Beauty Still Left Around You And Be Happy."
 > — *Anne Frank*
+
+### Quote of the Day (2026-10-23)
+> "Don't read success stories, you will only get a message. Read failure stories, you will get some ideas to get success."
+> — *Abdul Kalam*

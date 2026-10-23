@@ -2581,3 +2581,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-23)
 > "All The Great Things Are Simple, And Many Can Be Expressed In A Single Word: Freedom, Justice, Honor, Duty, Mercy, Hope."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-10-23)
+> "Prejudice comes from being in the dark; sunlight disinfects it."
+> — *Muhammad Ali*

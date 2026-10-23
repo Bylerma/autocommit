@@ -2585,3 +2585,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-23)
 > "Prejudice comes from being in the dark; sunlight disinfects it."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-23)
+> "My view is that at a younger age your optimism is more and you have more imagination etc. You have less bias."
+> — *Abdul Kalam*

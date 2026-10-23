@@ -2589,3 +2589,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-23)
 > "My view is that at a younger age your optimism is more and you have more imagination etc. You have less bias."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-23)
+> "Think Of All The Beauty Still Left Around You And Be Happy."
+> — *Anne Frank*

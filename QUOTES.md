@@ -2605,3 +2605,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-24)
 > "Anything That Won'T Sell, I Don'T Want To Invent. Its Sale Is Proof Of Utility, And Utility Is Success."
 > — *Thomas A. Edison*
+
+### Quote of the Day (2026-10-24)
+> "Avoid Popularity If You Would Have Peace."
+> — *Abraham Lincoln*

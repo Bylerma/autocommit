@@ -2601,3 +2601,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-24)
 > "Let yourself be silently drawn by the stronger pull of what you really love. In the depths there is a spring with all the water your heart is thirsty for."
 > — *Rumi*
+
+### Quote of the Day (2026-10-24)
+> "Anything That Won'T Sell, I Don'T Want To Invent. Its Sale Is Proof Of Utility, And Utility Is Success."
+> — *Thomas A. Edison*

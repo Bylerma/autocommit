@@ -2597,3 +2597,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-23)
 > "Don't read success stories, you will only get a message. Read failure stories, you will get some ideas to get success."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-24)
+> "Let yourself be silently drawn by the stronger pull of what you really love. In the depths there is a spring with all the water your heart is thirsty for."
+> — *Rumi*

@@ -2613,3 +2613,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-24)
 > "He who trusts the world, the world betrays him."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-24)
+> "The one from among the Muslims who recites the Qur'an but in the end finds his way to hell, is considered to be among those that have taken the word of Allah in jest."
+> — *Ali ibn Abi Talib (R.A)*

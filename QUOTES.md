@@ -2609,3 +2609,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-24)
 > "Avoid Popularity If You Would Have Peace."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-10-24)
+> "He who trusts the world, the world betrays him."
+> — *Ali ibn Abi Talib (R.A)*

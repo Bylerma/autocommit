@@ -2621,3 +2621,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-24)
 > "It'S Just A Job. Grass Grows, Birds Fly, Waves Pound The Sand. I Beat People Up."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-25)
+> "Conduct, Which Involves A Decision Of The Ultimate Fate Of The Agent Cannot Be Based On Illusions."
+> — *Muhammed Iqbal*

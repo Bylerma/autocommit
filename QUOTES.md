@@ -2633,3 +2633,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-25)
 > "Familiarity Breeds Contempt - And Children."
 > — *Mark Twain*
+
+### Quote of the Day (2026-10-25)
+> "Last night I had a dream. When I got to Africa, I had one hell of a rumble. I had to beat Tarzan's behind first, for claiming to be King of the Jungle."
+> — *Muhammad Ali*

@@ -2625,3 +2625,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-25)
 > "Conduct, Which Involves A Decision Of The Ultimate Fate Of The Agent Cannot Be Based On Illusions."
 > — *Muhammed Iqbal*
+
+### Quote of the Day (2026-10-25)
+> "Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!"
+> — *Ali ibn Abi Talib (R.A)*

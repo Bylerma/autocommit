@@ -2641,3 +2641,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-25)
 > "I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-10-25)
+> "Reader, Suppose You Were An Idiot. And Suppose You Were A Member Of Congress. But I Repeat Myself."
+> — *Mark Twain*

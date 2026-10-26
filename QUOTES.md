@@ -2645,3 +2645,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-25)
 > "Reader, Suppose You Were An Idiot. And Suppose You Were A Member Of Congress. But I Repeat Myself."
 > — *Mark Twain*
+
+### Quote of the Day (2026-10-26)
+> "There is nothing outside of yourself, look within. Everything you want is there. You are That."
+> — *Rumi*

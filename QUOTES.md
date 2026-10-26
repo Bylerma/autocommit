@@ -2649,3 +2649,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-26)
 > "There is nothing outside of yourself, look within. Everything you want is there. You are That."
 > — *Rumi*
+
+### Quote of the Day (2026-10-26)
+> "The World Breaks Everyone, And Afterward, Some Are Strong At The Broken Places."
+> — *Ernest Hemingway*

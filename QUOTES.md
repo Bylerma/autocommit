@@ -2653,3 +2653,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-26)
 > "The World Breaks Everyone, And Afterward, Some Are Strong At The Broken Places."
 > — *Ernest Hemingway*
+
+### Quote of the Day (2026-10-26)
+> "Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level."
+> — *Abdul Kalam*

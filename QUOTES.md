@@ -2677,3 +2677,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-27)
 > "All Great Achievements Require Time."
 > — *Maya Angelou*
+
+### Quote of the Day (2026-10-27)
+> "It'S Better To Be A Lion For A Day Than A Sheep All Your Life."
+> — *Elizabeth Kenny*

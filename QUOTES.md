@@ -2669,3 +2669,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-27)
 > "Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass."
 > — *Muhammad Iqbal*
+
+### Quote of the Day (2026-10-27)
+> "If you wish to be a mine of jewels, open the deep ocean within your heart."
+> — *Rumi*

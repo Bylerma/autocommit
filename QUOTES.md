@@ -2665,3 +2665,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-27)
 > "No Man Is Justified In Doing Evil On The Ground Of Expedience."
 > — *Theodore Roosevelt*
+
+### Quote of the Day (2026-10-27)
+> "Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass."
+> — *Muhammad Iqbal*

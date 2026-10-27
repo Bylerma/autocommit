@@ -2657,3 +2657,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-26)
 > "Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-27)
+> "The nourishment of body is food, while the nourishment of the soul is feeding others."
+> — *Ali ibn Abi Talib (R.A)*

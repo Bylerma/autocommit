@@ -2661,3 +2661,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-27)
 > "The nourishment of body is food, while the nourishment of the soul is feeding others."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-27)
+> "No Man Is Justified In Doing Evil On The Ground Of Expedience."
+> — *Theodore Roosevelt*

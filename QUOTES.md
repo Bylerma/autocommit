@@ -2697,3 +2697,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-28)
 > "I'M Not In This World To Live Up To Your Expectations And You'Re Not In This World To Live Up To Mine."
 > — *Bruce Lee*
+
+### Quote of the Day (2026-10-28)
+> "Sometimes the people with the worst past, create the best future."
+> — *Umar ibn Al-Khattāb (R.A)*

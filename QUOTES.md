@@ -2693,3 +2693,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-28)
 > "The world is darkness; knowledge is light; but knowledge without truth is a mere shadow."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-10-28)
+> "I'M Not In This World To Live Up To Your Expectations And You'Re Not In This World To Live Up To Mine."
+> — *Bruce Lee*

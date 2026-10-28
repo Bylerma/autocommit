@@ -2689,3 +2689,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-28)
 > "Without Music, Life Would Be A Mistake."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-10-28)
+> "The world is darkness; knowledge is light; but knowledge without truth is a mere shadow."
+> — *Ali ibn Abi Talib (R.A)*

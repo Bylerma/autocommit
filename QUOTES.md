@@ -2685,3 +2685,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-28)
 > "When a man says I cannot, he has made a suggestion to himself. He has weakened his power of accomplishing that which otherwise would have been accomplished."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-28)
+> "Without Music, Life Would Be A Mistake."
+> — *Friedrich Nietzsche*

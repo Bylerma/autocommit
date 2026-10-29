@@ -2705,3 +2705,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-28)
 > "The person I like most is the one who points out my defects."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-10-29)
+> "Courage Is Resistance To Fear, Mastery Of Fear, Not Absence Of Fear."
+> — *Mark Twain*

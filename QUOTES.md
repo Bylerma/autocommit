@@ -2725,3 +2725,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-29)
 > "Climbing to the top demands strength, whether it is to the top of Mount Everest or to the top of your career."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-29)
+> "When you're right, nobody remembers. When you're wrong, nobody forgets."
+> — *Muhammad Ali*

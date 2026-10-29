@@ -2033,3 +2033,6 @@ All notable changes to this project will be documented in this file.
 
 ## [2026-10-29] - Auto Log
 - 🚀 Updated local documentation manifest
+
+## [2026-10-29] - Auto Log
+- 💚 Refactored state management hooks for clarity

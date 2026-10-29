@@ -2709,3 +2709,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-29)
 > "Courage Is Resistance To Fear, Mastery Of Fear, Not Absence Of Fear."
 > — *Mark Twain*
+
+### Quote of the Day (2026-10-29)
+> "Live life as if its rigged in your favor."
+> — *Rumi*

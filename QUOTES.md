@@ -2717,3 +2717,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-29)
 > "The Christian Resolution To Find The World Ugly And Bad Has Made The World Ugly And Bad."
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-10-29)
+> "Those Who Dare To Fail Miserably Can Achieve Greatly."
+> — *John F. Kennedy*

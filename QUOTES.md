@@ -2745,3 +2745,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-30)
 > "It's not bragging if you can back it up."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-30)
+> "He who wins through fraud is not a winner."
+> — *Umar ibn Al-Khattāb (R.A)*

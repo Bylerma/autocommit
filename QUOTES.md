@@ -2741,3 +2741,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-30)
 > "War is never a lasting solution for any problem."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-30)
+> "It's not bragging if you can back it up."
+> — *Muhammad Ali*

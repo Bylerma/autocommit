@@ -2749,3 +2749,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-30)
 > "He who wins through fraud is not a winner."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-10-30)
+> "Don't read success stories, you will only get a message. Read failure stories, you will get some ideas to get success."
+> — *Abdul Kalam*

@@ -2729,3 +2729,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-29)
 > "When you're right, nobody remembers. When you're wrong, nobody forgets."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-30)
+> "Our Scientific Power Has Outrun Our Spiritual Power. We Have Guided Missiles And Misguided Men."
+> — *Martin Luther King, Jr.*

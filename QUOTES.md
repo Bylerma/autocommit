@@ -2737,3 +2737,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-30)
 > "That's how you came here, like a star without a name. Move across the night sky with those anonymous lights."
 > — *Rumi*
+
+### Quote of the Day (2026-10-30)
+> "War is never a lasting solution for any problem."
+> — *Abdul Kalam*

@@ -2761,3 +2761,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-31)
 > "Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-10-31)
+> "Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself."
+> — *Rumi*

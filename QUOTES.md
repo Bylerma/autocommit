@@ -2765,3 +2765,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-31)
 > "Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself."
 > — *Rumi*
+
+### Quote of the Day (2026-10-31)
+> "As you start to walk on the way, the way appears."
+> — *Rumi*

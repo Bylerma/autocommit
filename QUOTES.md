@@ -2773,3 +2773,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-31)
 > "God will not place a burden on a man's shoulders knowing that he cannot carry it."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-10-31)
+> "We Enjoy The Process Far More Than The Proceeds."
+> — *Warren Buffett*

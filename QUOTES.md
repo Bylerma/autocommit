@@ -2781,3 +2781,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-31)
 > "Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered."
 > — *Aristotle*
+
+### Quote of the Day (2026-10-31)
+> "The middle path is the way to wisdom."
+> — *Rumi*

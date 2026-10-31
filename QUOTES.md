@@ -2757,3 +2757,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-31)
 > "A Penny Saved Is A Penny Earned."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-10-31)
+> "Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."
+> — *Abdul Kalam*

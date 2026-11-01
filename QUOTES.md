@@ -2789,3 +2789,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-10-31)
 > "To Give Thanks In Solitude Is Enough. Thanksgiving Has Wings And Goes Where It Must Go. Your Prayer Knows Much More About It Than You Do."
 > — *Victor Hugo*
+
+### Quote of the Day (2026-11-01)
+> "We Must Believe That We Are Gifted For Something, And That This Thing, At Whatever Cost, Must Be Attained."
+> — *Marie Curie*

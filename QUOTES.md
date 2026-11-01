@@ -2793,3 +2793,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-01)
 > "We Must Believe That We Are Gifted For Something, And That This Thing, At Whatever Cost, Must Be Attained."
 > — *Marie Curie*
+
+### Quote of the Day (2026-11-01)
+> "Real Loss Is Only Possible When You Love Something More Than You Love Yourself."
+> — *Robin Williams*

@@ -2805,3 +2805,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-01)
 > "To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-01)
+> "Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."
+> — *Aristotle*

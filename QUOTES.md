@@ -2809,3 +2809,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-01)
 > "Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."
 > — *Aristotle*
+
+### Quote of the Day (2026-11-01)
+> "In Modern War... You Will Die Like A Dog For No Good Reason."
+> — *Ernest Hemingway*

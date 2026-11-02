@@ -2821,3 +2821,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-02)
 > "We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-11-02)
+> "Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be."
+> — *Zig Ziglar*

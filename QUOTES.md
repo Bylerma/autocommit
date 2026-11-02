@@ -2817,3 +2817,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-02)
 > "Men Occasionally Stumble Over The Truth, But Most Of Them Pick Themselves Up And Hurry Off As If Nothing Had Happened."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-11-02)
+> "We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them."
+> — *Abdul Kalam*

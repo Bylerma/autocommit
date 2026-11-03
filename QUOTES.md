@@ -2829,3 +2829,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-03)
 > "Be dignified, honest and truthful."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-03)
+> "Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift."
+> — *Albert Einstein*

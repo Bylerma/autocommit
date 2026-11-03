@@ -2837,3 +2837,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-03)
 > "Many a spoken word is more piercing than an attack."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-03)
+> "I'm not an expert on the arms race."
+> — *Abdul Kalam*

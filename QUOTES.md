@@ -2845,3 +2845,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-03)
 > "Once the Choice is Made, Do Not Look Back, Do Not Second-Guess Your Decisions."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-11-03)
+> "Dislike in yourself what you dislike in others."
+> — *Ali ibn Abi Talib (R.A)*

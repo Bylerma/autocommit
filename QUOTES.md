@@ -2825,3 +2825,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-02)
 > "Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be."
 > — *Zig Ziglar*
+
+### Quote of the Day (2026-11-03)
+> "Be dignified, honest and truthful."
+> — *Umar ibn Al-Khattāb (R.A)*

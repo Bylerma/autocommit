@@ -2833,3 +2833,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-03)
 > "Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-11-03)
+> "Many a spoken word is more piercing than an attack."
+> — *Ali ibn Abi Talib (R.A)*

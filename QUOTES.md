@@ -2861,3 +2861,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-04)
 > "Expect The Best. Prepare For The Worst. Capitalize On What Comes."
 > — *Zig Ziglar*
+
+### Quote of the Day (2026-11-04)
+> "If You Hear A Voice Within You Say 'You Cannot Paint ' Then By All Means Paint, And That Voice Will Be Silenced."
+> — *Vincent Van Gogh*

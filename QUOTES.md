@@ -2857,3 +2857,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-04)
 > "In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art."
 > — *Rumi*
+
+### Quote of the Day (2026-11-04)
+> "Expect The Best. Prepare For The Worst. Capitalize On What Comes."
+> — *Zig Ziglar*

@@ -2853,3 +2853,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-04)
 > "Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass."
 > — *Muhammad Iqbal*
+
+### Quote of the Day (2026-11-04)
+> "In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art."
+> — *Rumi*

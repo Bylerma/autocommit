@@ -2869,3 +2869,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-04)
 > "Knowledge is of two kinds: that which is absorbed and that which is heard. And that which is heard does not profit if it is not absorbed."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-04)
+> "Be melting snow. Wash yourself of yourself."
+> — *Rumi*

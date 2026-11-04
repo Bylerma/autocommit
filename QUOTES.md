@@ -2849,3 +2849,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-03)
 > "Dislike in yourself what you dislike in others."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-04)
+> "Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass."
+> — *Muhammad Iqbal*

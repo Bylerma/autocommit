@@ -2873,3 +2873,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-04)
 > "Be melting snow. Wash yourself of yourself."
 > — *Rumi*
+
+### Quote of the Day (2026-11-05)
+> "We can't be brave without fear."
+> — *Muhammad Ali*

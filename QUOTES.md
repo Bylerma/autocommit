@@ -2893,3 +2893,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-05)
 > "Like Slavery And Apartheid, Poverty Is Not Natural. It Is Man-Made And It Can Be Overcome And Eradicated By The Actions Of Human Beings."
 > — *Nelson Mandela*
+
+### Quote of the Day (2026-11-05)
+> "God Writes The Gospel Not In The Bible Alone, But Also On Trees, And In The Flowers And Clouds And Stars."
+> — *Martin Luther*

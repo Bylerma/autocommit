@@ -2889,3 +2889,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-05)
 > "Opportunity Is Missed By Most People Because It Is Dressed In Overalls And Looks Like Work."
 > — *Thomas A. Edison*
+
+### Quote of the Day (2026-11-05)
+> "Like Slavery And Apartheid, Poverty Is Not Natural. It Is Man-Made And It Can Be Overcome And Eradicated By The Actions Of Human Beings."
+> — *Nelson Mandela*

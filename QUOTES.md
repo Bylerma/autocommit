@@ -2881,3 +2881,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-05)
 > "The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter."
 > — *Paulo Coelho*
+
+### Quote of the Day (2026-11-05)
+> "Sit with those who constantly repent, for they have the softest hearts."
+> — *Umar ibn Al-Khattāb (R.A)*

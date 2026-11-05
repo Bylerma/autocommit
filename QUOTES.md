@@ -2885,3 +2885,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-05)
 > "Sit with those who constantly repent, for they have the softest hearts."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-05)
+> "Opportunity Is Missed By Most People Because It Is Dressed In Overalls And Looks Like Work."
+> — *Thomas A. Edison*

@@ -2897,3 +2897,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-05)
 > "God Writes The Gospel Not In The Bible Alone, But Also On Trees, And In The Flowers And Clouds And Stars."
 > — *Martin Luther*
+
+### Quote of the Day (2026-11-06)
+> "Everyone Seems To Have A Clear Idea Of How Other People Should Lead Their Lives, But None About His Or Her Own."
+> — *Paulo Coelho*

@@ -2909,3 +2909,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-06)
 > "Never, Never, Never Give Up."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-11-06)
+> "Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass."
+> — *Muhammad Iqbal*

@@ -2905,3 +2905,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-06)
 > "When a nation is surrounded by weaponized nations, she has to equip herself."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-11-06)
+> "Never, Never, Never Give Up."
+> — *Winston Churchill*

@@ -2901,3 +2901,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-06)
 > "Everyone Seems To Have A Clear Idea Of How Other People Should Lead Their Lives, But None About His Or Her Own."
 > — *Paulo Coelho*
+
+### Quote of the Day (2026-11-06)
+> "When a nation is surrounded by weaponized nations, she has to equip herself."
+> — *Abdul Kalam*

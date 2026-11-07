@@ -2921,3 +2921,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-06)
 > "Good Actions Are A Guard Against The Blows Of Adversity."
 > — *Abu Bakr*
+
+### Quote of the Day (2026-11-07)
+> "We Make War That We May Live In Peace."
+> — *Aristotle*

@@ -2937,3 +2937,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-07)
 > "I Love Sleep. My Life Has The Tendency To Fall Apart When I'M Awake, You Know?"
 > — *Ernest Hemingway*
+
+### Quote of the Day (2026-11-07)
+> "If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity."
+> — *John F. Kennedy*

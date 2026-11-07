@@ -2941,3 +2941,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-07)
 > "If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity."
 > — *John F. Kennedy*
+
+### Quote of the Day (2026-11-07)
+> "The Good Life Is One Inspired By Love And Guided By Knowledge."
+> — *Bertrand Russell*

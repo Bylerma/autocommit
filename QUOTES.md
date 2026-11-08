@@ -2949,3 +2949,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-08)
 > "Because I cannot sleep I make music in the night."
 > — *Rumi*
+
+### Quote of the Day (2026-11-08)
+> "The wisest among you is he whose sustenance is the fear of Allah."
+> — *Umar ibn Al-Khattāb (R.A)*

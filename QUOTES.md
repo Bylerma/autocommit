@@ -2961,3 +2961,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-08)
 > "I closed my mouth and spoke to you in a hundred silent ways."
 > — *Rumi*
+
+### Quote of the Day (2026-11-08)
+> "Our death is our wedding with eternity."
+> — *Rumi*

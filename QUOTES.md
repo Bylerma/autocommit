@@ -2953,3 +2953,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-08)
 > "The wisest among you is he whose sustenance is the fear of Allah."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-08)
+> "Isn'T It Strange That I Who Have Written Only Unpopular Books Should Be Such A Popular Fellow?"
+> — *Albert Einstein*

@@ -2965,3 +2965,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-08)
 > "Our death is our wedding with eternity."
 > — *Rumi*
+
+### Quote of the Day (2026-11-08)
+> "Gliders, Sail Planes, They'Re Wonderful Flying Machines. It'S The Closest You Can Come To Being A Bird."
+> — *Neil Armstrong*

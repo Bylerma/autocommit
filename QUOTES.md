@@ -2945,3 +2945,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-07)
 > "The Good Life Is One Inspired By Love And Guided By Knowledge."
 > — *Bertrand Russell*
+
+### Quote of the Day (2026-11-08)
+> "Because I cannot sleep I make music in the night."
+> — *Rumi*

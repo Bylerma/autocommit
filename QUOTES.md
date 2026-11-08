@@ -2957,3 +2957,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-08)
 > "Isn'T It Strange That I Who Have Written Only Unpopular Books Should Be Such A Popular Fellow?"
 > — *Albert Einstein*
+
+### Quote of the Day (2026-11-08)
+> "I closed my mouth and spoke to you in a hundred silent ways."
+> — *Rumi*

@@ -2985,3 +2985,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-09)
 > "We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are."
 > — *J. K. Rowling*
+
+### Quote of the Day (2026-11-09)
+> "Champions Keep Playing Until They Get It Right."
+> — *Billie Jean King*

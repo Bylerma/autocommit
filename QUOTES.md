@@ -2981,3 +2981,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-09)
 > "May Allah have mercy on him who sends me my faults as a present."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-09)
+> "We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are."
+> — *J. K. Rowling*

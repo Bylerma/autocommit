@@ -2977,3 +2977,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-09)
 > "All Great Achievements Require Time."
 > — *Maya Angelou*
+
+### Quote of the Day (2026-11-09)
+> "May Allah have mercy on him who sends me my faults as a present."
+> — *Umar ibn Al-Khattāb (R.A)*

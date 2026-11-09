@@ -2969,3 +2969,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-08)
 > "Gliders, Sail Planes, They'Re Wonderful Flying Machines. It'S The Closest You Can Come To Being A Bird."
 > — *Neil Armstrong*
+
+### Quote of the Day (2026-11-09)
+> "George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie."
+> — *Mark Twain*

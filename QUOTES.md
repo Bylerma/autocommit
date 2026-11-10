@@ -2997,3 +2997,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-10)
 > "Sit with those who constantly repent, for they have the softest hearts."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-10)
+> "There is no harm in patience, and no profit in lamentation. Death is easier to bear (than) that which precedes it, and more severe than that which comes after it. Remember the death of the Apostle of God, and your sorrow will be lessened."
+> — *Abu Bakr (R.A)*

@@ -3005,3 +3005,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-10)
 > "One who thinks and reflects develops his foresight and vision."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-10)
+> "I Want To Know All Gods Thoughts; All The Rest Are Just Details."
+> — *Albert Einstein*

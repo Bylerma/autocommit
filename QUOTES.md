@@ -2993,3 +2993,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-09)
 > "Do You Think God Gets Stoned? I Think So... Look At The Platypus."
 > — *Robin Williams*
+
+### Quote of the Day (2026-11-10)
+> "Sit with those who constantly repent, for they have the softest hearts."
+> — *Umar ibn Al-Khattāb (R.A)*

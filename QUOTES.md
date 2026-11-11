@@ -3017,3 +3017,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-10)
 > "Keep Your Eyes Wide Open Before Marriage, Half Shut Afterwards."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-11-11)
+> "The more knowledge you have, the greater will be your fear of Allah."
+> — *Abu Bakr (R.A)*

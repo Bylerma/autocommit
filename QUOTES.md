@@ -3021,3 +3021,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-11)
 > "The more knowledge you have, the greater will be your fear of Allah."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-11-11)
+> "A heart filled with love is like a phoenix that no cage can imprison."
+> — *Rumi*

@@ -3037,3 +3037,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-11)
 > "Applause Waits On Success."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-11-11)
+> "Your heart knows the way. Run in that direction."
+> — *Rumi*

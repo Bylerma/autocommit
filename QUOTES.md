@@ -3057,3 +3057,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-12)
 > "Only last week I murdered a rock, injured a stone and hospitalized a brick."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-11-12)
+> "Sometimes the people with the worst past, create the best future."
+> — *Umar ibn Al-Khattāb (R.A)*

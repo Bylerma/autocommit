@@ -3041,3 +3041,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-11)
 > "Your heart knows the way. Run in that direction."
 > — *Rumi*
+
+### Quote of the Day (2026-11-12)
+> "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+> — *Rumi*

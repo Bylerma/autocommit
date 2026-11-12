@@ -3049,3 +3049,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-12)
 > "Who do you think's better looking people in the north or people in the south?"
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-12)
+> "You have to keep breaking your heart until it opens."
+> — *Rumi*

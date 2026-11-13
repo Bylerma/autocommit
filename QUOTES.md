@@ -3073,3 +3073,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-13)
 > "A calamity does not descend except due to a sin and it is not lifted except with repentance."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-13)
+> "The chess master says nothing, other than moving the silent chess piece."
+> — *Rumi*

@@ -3077,3 +3077,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-13)
 > "The chess master says nothing, other than moving the silent chess piece."
 > — *Rumi*
+
+### Quote of the Day (2026-11-13)
+> "Life Well Spent Is Long."
+> — *Leonardo Da Vinci*

@@ -3081,3 +3081,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-13)
 > "Life Well Spent Is Long."
 > — *Leonardo Da Vinci*
+
+### Quote of the Day (2026-11-13)
+> "Art Is The Proper Task Of Life."
+> — *Friedrich Nietzsche*

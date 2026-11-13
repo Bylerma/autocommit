@@ -3069,3 +3069,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-13)
 > "Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-11-13)
+> "A calamity does not descend except due to a sin and it is not lifted except with repentance."
+> — *Ali ibn Abi Talib (R.A)*

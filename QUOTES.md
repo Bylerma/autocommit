@@ -3065,3 +3065,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-12)
 > "Wherever you stand, be the soul of that place."
 > — *Rumi*
+
+### Quote of the Day (2026-11-13)
+> "Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen."
+> — *Winston Churchill*

@@ -3105,3 +3105,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-14)
 > "Money and riches don't mean nothing to me. I don't care nothing about being no rich individual. I'm not living for glory or for fame; all this is doomed for destruction. You got it today, tomorrow it's gone. I got bigger things on my mind than that. I got Islam on my mind."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-11-14)
+> "The minute I heard my first love story, I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along."
+> — *Rumi*

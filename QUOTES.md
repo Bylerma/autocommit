@@ -3109,3 +3109,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-14)
 > "The minute I heard my first love story, I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along."
 > — *Rumi*
+
+### Quote of the Day (2026-11-14)
+> "Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors."
+> — *Confucius*

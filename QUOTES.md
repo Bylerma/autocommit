@@ -3097,3 +3097,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-14)
 > "You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On."
 > — *Oprah Winfrey*
+
+### Quote of the Day (2026-11-14)
+> "Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him."
+> — *Rumi*

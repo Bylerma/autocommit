@@ -3089,3 +3089,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-13)
 > "Let us sacrifice our today so that our children can have a better tomorrow."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-11-14)
+> "Failure Is A Detour, Not A Dead-End Street."
+> — *Zig Ziglar*

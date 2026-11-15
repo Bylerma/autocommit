@@ -3121,3 +3121,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-15)
 > "Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-11-15)
+> "English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese."
+> — *Abdul Kalam*

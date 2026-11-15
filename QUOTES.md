@@ -3117,3 +3117,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-15)
 > "Acquire knowledge, and learn tranquility and dignity."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-15)
+> "Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level."
+> — *Abdul Kalam*

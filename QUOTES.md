@@ -3125,3 +3125,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-15)
 > "English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-11-15)
+> "One who thinks and reflects develops his foresight and vision."
+> — *Ali ibn Abi Talib (R.A)*

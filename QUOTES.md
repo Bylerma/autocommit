@@ -3113,3 +3113,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-14)
 > "Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors."
 > — *Confucius*
+
+### Quote of the Day (2026-11-15)
+> "Acquire knowledge, and learn tranquility and dignity."
+> — *Umar ibn Al-Khattāb (R.A)*

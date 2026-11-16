@@ -3157,3 +3157,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-16)
 > "The wiser a man is, the less talkative will he be."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-16)
+> "Allah Will Help Him Who Moves In The Way Of Allah."
+> — *Abu Bakr*

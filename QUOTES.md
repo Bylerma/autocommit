@@ -3137,3 +3137,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-15)
 > "As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-11-16)
+> "It is better to listen to a wise enemy than to seek counsel from a foolish friend."
+> — *Ali ibn Abi Talib (R.A)*

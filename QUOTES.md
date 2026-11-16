@@ -3153,3 +3153,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-16)
 > "It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt."
 > — *Abraham Lincoln*
+
+### Quote of the Day (2026-11-16)
+> "The wiser a man is, the less talkative will he be."
+> — *Ali ibn Abi Talib (R.A)*

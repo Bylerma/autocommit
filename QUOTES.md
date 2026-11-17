@@ -3161,3 +3161,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-16)
 > "Allah Will Help Him Who Moves In The Way Of Allah."
 > — *Abu Bakr*
+
+### Quote of the Day (2026-11-17)
+> "Always remember you are braver than you believe, stronger than you seem, smarter than you think and twice as beautiful as you'd ever imagined. Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+> — *Rumi*

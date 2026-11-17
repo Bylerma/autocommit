@@ -3169,3 +3169,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-17)
 > "Everyone has been made for some particular work, and the desire for that work has been put in every heart."
 > — *Rumi*
+
+### Quote of the Day (2026-11-17)
+> "Don't be sad! Because God sends hope in the most desperate moments. Don't forget, the heaviest rain comes out of the darkest clouds."
+> — *Rumi*

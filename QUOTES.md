@@ -3181,3 +3181,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-17)
 > "Clean code always looks like it was written by someone who cares."
 > — *Michael Feathers*
+
+### Quote of the Day (2026-11-17)
+> "Wear gratitude like a cloak and it will feed every corner of your life."
+> — *Rumi*

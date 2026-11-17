@@ -3173,3 +3173,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-17)
 > "Don't be sad! Because God sends hope in the most desperate moments. Don't forget, the heaviest rain comes out of the darkest clouds."
 > — *Rumi*
+
+### Quote of the Day (2026-11-17)
+> "Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."
+> — *Abdul Kalam*

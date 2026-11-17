@@ -3165,3 +3165,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-17)
 > "Always remember you are braver than you believe, stronger than you seem, smarter than you think and twice as beautiful as you'd ever imagined. Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
 > — *Rumi*
+
+### Quote of the Day (2026-11-17)
+> "Everyone has been made for some particular work, and the desire for that work has been put in every heart."
+> — *Rumi*

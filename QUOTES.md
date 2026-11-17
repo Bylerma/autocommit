@@ -3177,3 +3177,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-17)
 > "Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-11-17)
+> "Clean code always looks like it was written by someone who cares."
+> — *Michael Feathers*

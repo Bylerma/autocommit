@@ -3201,3 +3201,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-18)
 > "I learned that every mortal will taste death. But only some will taste life."
 > — *Rumi*
+
+### Quote of the Day (2026-11-18)
+> "Take account of your deeds before they are taken account of."
+> — *Umar ibn Al-Khattāb (R.A)*

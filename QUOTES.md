@@ -3205,3 +3205,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-18)
 > "Take account of your deeds before they are taken account of."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-18)
+> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow."
+> — *Benjamin Franklin*

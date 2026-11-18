@@ -3193,3 +3193,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-18)
 > "We Continue To Shape Our Personality All Our Life. If We Knew Ourselves Perfectly, We Should Die."
 > — *Albert Camus*
+
+### Quote of the Day (2026-11-18)
+> "Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love."
+> — *Rumi*

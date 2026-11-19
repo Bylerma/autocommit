@@ -3209,3 +3209,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-18)
 > "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow."
 > — *Benjamin Franklin*
+
+### Quote of the Day (2026-11-19)
+> "When a man puts me a question, I judge of his intelligence."
+> — *Umar ibn Al-Khattāb (R.A)*

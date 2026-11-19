@@ -3229,3 +3229,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-19)
 > "Be Faithful In Small Things Because It Is In Them That Your Strength Lies."
 > — *Mother Teresa*
+
+### Quote of the Day (2026-11-19)
+> "Look Deep Into Nature, And Then You Will Understand Everything Better."
+> — *Albert Einstein*

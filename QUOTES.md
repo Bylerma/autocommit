@@ -3213,3 +3213,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-19)
 > "When a man puts me a question, I judge of his intelligence."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-19)
+> "There is greatness in the fear of God, contentment in faith of God, and honour in humility."
+> — *Abu Bakr (R.A)*

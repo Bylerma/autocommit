@@ -3225,3 +3225,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-19)
 > "Be afraid of a dignified man when he is hungry and a wicked man when his belly is full."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-19)
+> "Be Faithful In Small Things Because It Is In Them That Your Strength Lies."
+> — *Mother Teresa*

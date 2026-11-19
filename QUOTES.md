@@ -3217,3 +3217,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-19)
 > "There is greatness in the fear of God, contentment in faith of God, and honour in humility."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-11-19)
+> "The one from among the Muslims who recites the Qur'an but in the end finds his way to hell, is considered to be among those that have taken the word of Allah in jest."
+> — *Ali ibn Abi Talib (R.A)*

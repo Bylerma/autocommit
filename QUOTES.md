@@ -3237,3 +3237,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-20)
 > "To whatever extent a person's knowledge increases, his attention will be turned more towards his soul."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-20)
+> "Almost All Our Desires, When Examined, Contain Something Too Shameful To Reveal."
+> — *Victor Hugo*

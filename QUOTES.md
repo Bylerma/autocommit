@@ -3233,3 +3233,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-19)
 > "Look Deep Into Nature, And Then You Will Understand Everything Better."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-11-20)
+> "To whatever extent a person's knowledge increases, his attention will be turned more towards his soul."
+> — *Ali ibn Abi Talib (R.A)*

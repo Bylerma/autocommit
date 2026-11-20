@@ -3253,3 +3253,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-20)
 > "The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not."
 > — *C. S. Lewis*
+
+### Quote of the Day (2026-11-20)
+> "Why do I want my wife to show off her panties when the wind blows? Horses show their behinds, and cows and mules, not humans."
+> — *Muhammad Ali*

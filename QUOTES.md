@@ -3265,3 +3265,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-21)
 > "His hands can't hit what his eyes can't see."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-11-21)
+> "Set your life on fire. Seek those who fan your flames."
+> — *Rumi*

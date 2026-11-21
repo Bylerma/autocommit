@@ -3277,3 +3277,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-21)
 > "Use the same measure for selling that you use for purchasing."
 > — *Abu Bakr (R.A)*
+
+### Quote of the Day (2026-11-21)
+> "Hold yourselves accountable before you are held accountable."
+> — *Umar ibn Al-Khattāb (R.A)*

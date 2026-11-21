@@ -3273,3 +3273,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-21)
 > "Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth."
 > — *Ayn Rand*
+
+### Quote of the Day (2026-11-21)
+> "Use the same measure for selling that you use for purchasing."
+> — *Abu Bakr (R.A)*

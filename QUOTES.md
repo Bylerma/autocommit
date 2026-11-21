@@ -3261,3 +3261,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-21)
 > "Impossible is nothing."
 > — *Muhammad Ali*
+
+### Quote of the Day (2026-11-21)
+> "His hands can't hit what his eyes can't see."
+> — *Muhammad Ali*

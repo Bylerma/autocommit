@@ -3297,3 +3297,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-22)
 > "Do not hate what you do not know, for the greater part of knowledge consists of what you do not know."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-22)
+> "The middle path is the way to wisdom."
+> — *Rumi*

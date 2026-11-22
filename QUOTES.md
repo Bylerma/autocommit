@@ -3281,3 +3281,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-21)
 > "Hold yourselves accountable before you are held accountable."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-22)
+> "So Go Ahead. Fall Down. The World Looks Different From The Ground."
+> — *Oprah Winfrey*

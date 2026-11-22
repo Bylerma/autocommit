@@ -3301,3 +3301,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-22)
 > "The middle path is the way to wisdom."
 > — *Rumi*
+
+### Quote of the Day (2026-11-22)
+> "Adversity always presents opportunities for introspection."
+> — *Abdul Kalam*

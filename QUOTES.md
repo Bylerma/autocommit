@@ -3313,3 +3313,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-23)
 > "Wars Are Caused By Undefended Wealth."
 > — *Ernest Hemingway*
+
+### Quote of the Day (2026-11-23)
+> "Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground."
+> — *Rumi*

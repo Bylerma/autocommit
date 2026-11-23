@@ -3317,3 +3317,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-23)
 > "Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground."
 > — *Rumi*
+
+### Quote of the Day (2026-11-23)
+> "I Want To Know All Gods Thoughts; All The Rest Are Just Details."
+> — *Albert Einstein*

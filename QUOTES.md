@@ -3305,3 +3305,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-22)
 > "Adversity always presents opportunities for introspection."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-11-23)
+> "Music Is The Art Of The Prophets And The Gift Of God."
+> — *Martin Luther*

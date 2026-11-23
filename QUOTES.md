@@ -3321,3 +3321,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-23)
 > "I Want To Know All Gods Thoughts; All The Rest Are Just Details."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-11-23)
+> "Do not be an arrogant scholar, for scholarship cannot subsist with arrogance."
+> — *Umar ibn Al-Khattāb (R.A)*

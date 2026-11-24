@@ -3337,3 +3337,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-24)
 > "Is Man One Of God'S Blunders? Or Is God One Of Man'S Blunders?"
 > — *Friedrich Nietzsche*
+
+### Quote of the Day (2026-11-24)
+> "Things Won Are Done, Joy'S Soul Lies In The Doing."
+> — *William Shakespeare*

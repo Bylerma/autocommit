@@ -3349,3 +3349,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-24)
 > "Sometimes the people with the worst past, create the best future."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-24)
+> "What Is Wanted Is Not The Will To Believe, But The Will To Find Out, Which Is The Exact Opposite."
+> — *Bertrand Russell*

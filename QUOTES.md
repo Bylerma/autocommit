@@ -3341,3 +3341,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-24)
 > "Things Won Are Done, Joy'S Soul Lies In The Doing."
 > — *William Shakespeare*
+
+### Quote of the Day (2026-11-24)
+> "Never, Never, Never Give Up."
+> — *Winston Churchill*

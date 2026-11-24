@@ -3345,3 +3345,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-24)
 > "Never, Never, Never Give Up."
 > — *Winston Churchill*
+
+### Quote of the Day (2026-11-24)
+> "Sometimes the people with the worst past, create the best future."
+> — *Umar ibn Al-Khattāb (R.A)*

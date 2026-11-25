@@ -3369,3 +3369,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-25)
 > "Do not put off today's work for tomorrow."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-25)
+> "Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere."
+> — *Carl Sagan*

@@ -3353,3 +3353,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-24)
 > "What Is Wanted Is Not The Will To Believe, But The Will To Find Out, Which Is The Exact Opposite."
 > — *Bertrand Russell*
+
+### Quote of the Day (2026-11-25)
+> "Stubbornness destroys good advice."
+> — *Ali ibn Abi Talib (R.A)*

@@ -3373,3 +3373,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-25)
 > "Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere."
 > — *Carl Sagan*
+
+### Quote of the Day (2026-11-25)
+> "If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."
+> — *Umar ibn Al-Khattāb (R.A)*

@@ -3365,3 +3365,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-25)
 > "Politics Is For The Present, But An Equation Is For Eternity."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-11-25)
+> "Do not put off today's work for tomorrow."
+> — *Umar ibn Al-Khattāb (R.A)*

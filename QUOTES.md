@@ -3361,3 +3361,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-25)
 > "Whatever purifies you is the right path, I will not try to define it."
 > — *Rumi*
+
+### Quote of the Day (2026-11-25)
+> "Politics Is For The Present, But An Equation Is For Eternity."
+> — *Albert Einstein*

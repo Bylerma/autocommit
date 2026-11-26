@@ -3381,3 +3381,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-26)
 > "If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-26)
+> "Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed."
+> — *Ali Ibn Abi Talib*

@@ -3377,3 +3377,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-25)
 > "If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-26)
+> "If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."
+> — *Umar ibn Al-Khattāb (R.A)*

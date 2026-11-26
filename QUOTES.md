@@ -3393,3 +3393,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-26)
 > "Respond to every call that excites your spirit."
 > — *Rumi*
+
+### Quote of the Day (2026-11-26)
+> "Everything That We See Is A Shadow Cast By That Which We Do Not See."
+> — *Martin Luther King, Jr.*

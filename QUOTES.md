@@ -3385,3 +3385,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-26)
 > "Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed."
 > — *Ali Ibn Abi Talib*
+
+### Quote of the Day (2026-11-26)
+> "May Allah bless the man who says less and does more."
+> — *Umar ibn Al-Khattāb (R.A)*

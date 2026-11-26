@@ -3389,3 +3389,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-26)
 > "May Allah bless the man who says less and does more."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-26)
+> "Respond to every call that excites your spirit."
+> — *Rumi*

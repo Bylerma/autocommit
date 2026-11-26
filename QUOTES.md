@@ -3397,3 +3397,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-26)
 > "Everything That We See Is A Shadow Cast By That Which We Do Not See."
 > — *Martin Luther King, Jr.*
+
+### Quote of the Day (2026-11-26)
+> "If Allah wants for a people ill, he gives them debates and takes away from them actions."
+> — *Umar ibn Al-Khattāb (R.A)*

@@ -3409,3 +3409,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-27)
 > "The criterion of action is that todays work should not be deferred till the following day."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-27)
+> "Madness Is Rare In Individuals - But In Groups, Parties, Nations, And Ages It Is The Rule."
+> — *Friedrich Nietzsche*

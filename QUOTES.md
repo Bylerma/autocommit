@@ -3401,3 +3401,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-26)
 > "If Allah wants for a people ill, he gives them debates and takes away from them actions."
 > — *Umar ibn Al-Khattāb (R.A)*
+
+### Quote of the Day (2026-11-27)
+> "It'S Not What You'Ve Got, It'S What You Use That Makes A Difference."
+> — *Zig Ziglar*

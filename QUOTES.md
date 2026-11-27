@@ -3417,3 +3417,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-27)
 > "Extreme Hopes Are Born From Extreme Misery."
 > — *Bertrand Russell*
+
+### Quote of the Day (2026-11-27)
+> "The happiest of people is the one under whose care people are happy because of him, and the most miserable of people is the one under whose care people are miserable because of him."
+> — *Umar ibn Al-Khattāb (R.A)*

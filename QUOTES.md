@@ -3405,3 +3405,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-27)
 > "It'S Not What You'Ve Got, It'S What You Use That Makes A Difference."
 > — *Zig Ziglar*
+
+### Quote of the Day (2026-11-27)
+> "The criterion of action is that todays work should not be deferred till the following day."
+> — *Umar ibn Al-Khattāb (R.A)*

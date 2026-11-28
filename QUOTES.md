@@ -3437,3 +3437,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-28)
 > "Anything That Won'T Sell, I Don'T Want To Invent. Its Sale Is Proof Of Utility, And Utility Is Success."
 > — *Thomas A. Edison*
+
+### Quote of the Day (2026-11-28)
+> "Don't read success stories, you will only get a message. Read failure stories, you will get some ideas to get success."
+> — *Abdul Kalam*

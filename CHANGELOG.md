@@ -2576,3 +2576,6 @@ All notable changes to this project will be documented in this file.
 
 ## [2026-11-28] - Auto Log
 - 🐛 Boosted UI render speeds via memoized callbacks
+
+## [2026-11-28] - Auto Log
+- 🔥 Added test coverage for core auth utilities

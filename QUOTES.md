@@ -3441,3 +3441,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-28)
 > "Don't read success stories, you will only get a message. Read failure stories, you will get some ideas to get success."
 > — *Abdul Kalam*
+
+### Quote of the Day (2026-11-28)
+> "Lead such a life, that, when you die, the people may mourn you, and while you are alive they long for your company."
+> — *Ali ibn Abi Talib (R.A)*

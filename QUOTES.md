@@ -3429,3 +3429,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-28)
 > "Peace Cannot Be Kept By Force; It Can Only Be Achieved By Understanding."
 > — *Albert Einstein*
+
+### Quote of the Day (2026-11-28)
+> "No matter what is the environment around you, it is always possible to maintain your brand of integrity."
+> — *Abdul Kalam*

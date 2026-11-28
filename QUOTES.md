@@ -3445,3 +3445,7 @@ A collection of motivational quotes updated daily.
 ### Quote of the Day (2026-11-28)
 > "Lead such a life, that, when you die, the people may mourn you, and while you are alive they long for your company."
 > — *Ali ibn Abi Talib (R.A)*
+
+### Quote of the Day (2026-11-28)
+> "Our greatest strength lies in the gentleness and tenderness of our heart."
+> — *Rumi*
